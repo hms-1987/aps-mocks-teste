@@ -1,0 +1,1804 @@
+{
+  "schedule": [
+    {
+      "OP_ID": "OP2025-001",
+      "Modelo": "Social Oxford Brogue",
+      "Tamanho": 39,
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioPlanejada": "2025-02-03 13:30",
+      "DataFimPlanejada": "2025-02-03 16:30",
+      "QtdePlanejada": 187
+    },
+    {
+      "OP_ID": "OP2025-002",
+      "Modelo": "Social Oxford Brogue",
+      "Tamanho": 40,
+      "Maquina": "Solado_01",
+      "DataInicioPlanejada": "2025-02-03 07:01",
+      "DataFimPlanejada": "2025-02-03 12:01",
+      "QtdePlanejada": 212
+    },
+    {
+      "OP_ID": "OP2025-003",
+      "Modelo": "Social Verniz",
+      "Tamanho": 41,
+      "Maquina": "Acabamento_01",
+      "DataInicioPlanejada": "2025-02-03 13:50",
+      "DataFimPlanejada": "2025-02-03 16:50",
+      "QtdePlanejada": 194
+    },
+    {
+      "OP_ID": "OP2025-004",
+      "Modelo": "Social Oxford Brogue",
+      "Tamanho": 44,
+      "Maquina": "Solado_01",
+      "DataInicioPlanejada": "2025-02-03 08:23",
+      "DataFimPlanejada": "2025-02-03 12:23",
+      "QtdePlanejada": 243
+    },
+    {
+      "OP_ID": "OP2025-005",
+      "Modelo": "Social Derby",
+      "Tamanho": 41,
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioPlanejada": "2025-02-03 13:29",
+      "DataFimPlanejada": "2025-02-03 17:29",
+      "QtdePlanejada": 206
+    },
+    {
+      "OP_ID": "OP2025-006",
+      "Modelo": "Social Derby",
+      "Tamanho": 39,
+      "Maquina": "Colagem_01",
+      "DataInicioPlanejada": "2025-02-03 07:54",
+      "DataFimPlanejada": "2025-02-03 10:54",
+      "QtdePlanejada": 246
+    },
+    {
+      "OP_ID": "OP2025-007",
+      "Modelo": "Social Couro Texturizado",
+      "Tamanho": 42,
+      "Maquina": "Acabamento_01",
+      "DataInicioPlanejada": "2025-02-03 13:01",
+      "DataFimPlanejada": "2025-02-03 17:01",
+      "QtdePlanejada": 206
+    },
+    {
+      "OP_ID": "OP2025-008",
+      "Modelo": "Social Verniz",
+      "Tamanho": 42,
+      "Maquina": "Solado_01",
+      "DataInicioPlanejada": "2025-02-03 07:52",
+      "DataFimPlanejada": "2025-02-03 12:52",
+      "QtdePlanejada": 224
+    },
+    {
+      "OP_ID": "OP2025-009",
+      "Modelo": "Social Verniz",
+      "Tamanho": 40,
+      "Maquina": "Colagem_01",
+      "DataInicioPlanejada": "2025-02-03 14:30",
+      "DataFimPlanejada": "2025-02-03 18:30",
+      "QtdePlanejada": 232
+    },
+    {
+      "OP_ID": "OP2025-010",
+      "Modelo": "Social Derby",
+      "Tamanho": 44,
+      "Maquina": "Solado_01",
+      "DataInicioPlanejada": "2025-02-04 08:18",
+      "DataFimPlanejada": "2025-02-04 13:18",
+      "QtdePlanejada": 213
+    },
+    {
+      "OP_ID": "OP2025-011",
+      "Modelo": "Social Monk Strap",
+      "Tamanho": 44,
+      "Maquina": "Colagem_01",
+      "DataInicioPlanejada": "2025-02-04 13:37",
+      "DataFimPlanejada": "2025-02-04 17:37",
+      "QtdePlanejada": 210
+    },
+    {
+      "OP_ID": "OP2025-012",
+      "Modelo": "Social Oxford Premium",
+      "Tamanho": 42,
+      "Maquina": "Colagem_01",
+      "DataInicioPlanejada": "2025-02-04 08:49",
+      "DataFimPlanejada": "2025-02-04 13:49",
+      "QtdePlanejada": 247
+    },
+    {
+      "OP_ID": "OP2025-013",
+      "Modelo": "Social Verniz",
+      "Tamanho": 44,
+      "Maquina": "Acabamento_01",
+      "DataInicioPlanejada": "2025-02-04 14:12",
+      "DataFimPlanejada": "2025-02-04 17:12",
+      "QtdePlanejada": 183
+    },
+    {
+      "OP_ID": "OP2025-014",
+      "Modelo": "Social Couro Liso",
+      "Tamanho": 40,
+      "Maquina": "Colagem_01",
+      "DataInicioPlanejada": "2025-02-04 07:12",
+      "DataFimPlanejada": "2025-02-04 10:12",
+      "QtdePlanejada": 185
+    },
+    {
+      "OP_ID": "OP2025-015",
+      "Modelo": "Social Oxford Premium",
+      "Tamanho": 42,
+      "Maquina": "Solado_01",
+      "DataInicioPlanejada": "2025-02-04 13:24",
+      "DataFimPlanejada": "2025-02-04 16:24",
+      "QtdePlanejada": 198
+    },
+    {
+      "OP_ID": "OP2025-016",
+      "Modelo": "Social Oxford Brogue",
+      "Tamanho": 41,
+      "Maquina": "Solado_01",
+      "DataInicioPlanejada": "2025-02-04 07:08",
+      "DataFimPlanejada": "2025-02-04 10:08",
+      "QtdePlanejada": 168
+    },
+    {
+      "OP_ID": "OP2025-017",
+      "Modelo": "Social Verniz",
+      "Tamanho": 43,
+      "Maquina": "Colagem_01",
+      "DataInicioPlanejada": "2025-02-04 13:56",
+      "DataFimPlanejada": "2025-02-04 16:56",
+      "QtdePlanejada": 242
+    },
+    {
+      "OP_ID": "OP2025-018",
+      "Modelo": "Social Couro Liso",
+      "Tamanho": 41,
+      "Maquina": "Acabamento_01",
+      "DataInicioPlanejada": "2025-02-04 08:41",
+      "DataFimPlanejada": "2025-02-04 13:41",
+      "QtdePlanejada": 168
+    },
+    {
+      "OP_ID": "OP2025-019",
+      "Modelo": "Social Monk Strap",
+      "Tamanho": 42,
+      "Maquina": "Solado_01",
+      "DataInicioPlanejada": "2025-02-04 14:58",
+      "DataFimPlanejada": "2025-02-04 19:58",
+      "QtdePlanejada": 171
+    },
+    {
+      "OP_ID": "OP2025-020",
+      "Modelo": "Social Monk Strap",
+      "Tamanho": 44,
+      "Maquina": "Solado_01",
+      "DataInicioPlanejada": "2025-02-05 07:16",
+      "DataFimPlanejada": "2025-02-05 12:16",
+      "QtdePlanejada": 207
+    },
+    {
+      "OP_ID": "OP2025-021",
+      "Modelo": "Social Oxford Premium",
+      "Tamanho": 42,
+      "Maquina": "Acabamento_01",
+      "DataInicioPlanejada": "2025-02-05 14:23",
+      "DataFimPlanejada": "2025-02-05 17:23",
+      "QtdePlanejada": 165
+    },
+    {
+      "OP_ID": "OP2025-022",
+      "Modelo": "Social Couro Liso",
+      "Tamanho": 44,
+      "Maquina": "Acabamento_01",
+      "DataInicioPlanejada": "2025-02-05 08:59",
+      "DataFimPlanejada": "2025-02-05 13:59",
+      "QtdePlanejada": 217
+    },
+    {
+      "OP_ID": "OP2025-023",
+      "Modelo": "Social Couro Texturizado",
+      "Tamanho": 43,
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioPlanejada": "2025-02-05 14:15",
+      "DataFimPlanejada": "2025-02-05 17:15",
+      "QtdePlanejada": 164
+    },
+    {
+      "OP_ID": "OP2025-024",
+      "Modelo": "Social Oxford Premium",
+      "Tamanho": 41,
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioPlanejada": "2025-02-05 08:45",
+      "DataFimPlanejada": "2025-02-05 11:45",
+      "QtdePlanejada": 178
+    },
+    {
+      "OP_ID": "OP2025-025",
+      "Modelo": "Social Couro Texturizado",
+      "Tamanho": 42,
+      "Maquina": "Colagem_01",
+      "DataInicioPlanejada": "2025-02-05 13:31",
+      "DataFimPlanejada": "2025-02-05 17:31",
+      "QtdePlanejada": 203
+    },
+    {
+      "OP_ID": "OP2025-026",
+      "Modelo": "Social Oxford Brogue",
+      "Tamanho": 40,
+      "Maquina": "Solado_01",
+      "DataInicioPlanejada": "2025-02-05 07:17",
+      "DataFimPlanejada": "2025-02-05 11:17",
+      "QtdePlanejada": 167
+    },
+    {
+      "OP_ID": "OP2025-027",
+      "Modelo": "Social Couro Texturizado",
+      "Tamanho": 39,
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioPlanejada": "2025-02-05 13:52",
+      "DataFimPlanejada": "2025-02-05 16:52",
+      "QtdePlanejada": 186
+    },
+    {
+      "OP_ID": "OP2025-028",
+      "Modelo": "Social Oxford Brogue",
+      "Tamanho": 39,
+      "Maquina": "Solado_01",
+      "DataInicioPlanejada": "2025-02-05 08:23",
+      "DataFimPlanejada": "2025-02-05 13:23",
+      "QtdePlanejada": 254
+    },
+    {
+      "OP_ID": "OP2025-029",
+      "Modelo": "Social Derby",
+      "Tamanho": 39,
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioPlanejada": "2025-02-05 14:45",
+      "DataFimPlanejada": "2025-02-05 18:45",
+      "QtdePlanejada": 178
+    },
+    {
+      "OP_ID": "OP2025-030",
+      "Modelo": "Social Derby",
+      "Tamanho": 41,
+      "Maquina": "Acabamento_01",
+      "DataInicioPlanejada": "2025-02-06 08:34",
+      "DataFimPlanejada": "2025-02-06 11:34",
+      "QtdePlanejada": 195
+    },
+    {
+      "OP_ID": "OP2025-031",
+      "Modelo": "Social Verniz",
+      "Tamanho": 39,
+      "Maquina": "Solado_01",
+      "DataInicioPlanejada": "2025-02-06 14:36",
+      "DataFimPlanejada": "2025-02-06 19:36",
+      "QtdePlanejada": 239
+    },
+    {
+      "OP_ID": "OP2025-032",
+      "Modelo": "Social Oxford Premium",
+      "Tamanho": 41,
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioPlanejada": "2025-02-06 07:26",
+      "DataFimPlanejada": "2025-02-06 12:26",
+      "QtdePlanejada": 204
+    },
+    {
+      "OP_ID": "OP2025-033",
+      "Modelo": "Social Monk Strap",
+      "Tamanho": 39,
+      "Maquina": "Acabamento_01",
+      "DataInicioPlanejada": "2025-02-06 13:00",
+      "DataFimPlanejada": "2025-02-06 17:00",
+      "QtdePlanejada": 160
+    },
+    {
+      "OP_ID": "OP2025-034",
+      "Modelo": "Social Monk Strap",
+      "Tamanho": 40,
+      "Maquina": "Solado_01",
+      "DataInicioPlanejada": "2025-02-06 07:22",
+      "DataFimPlanejada": "2025-02-06 12:22",
+      "QtdePlanejada": 167
+    },
+    {
+      "OP_ID": "OP2025-035",
+      "Modelo": "Social Oxford Premium",
+      "Tamanho": 42,
+      "Maquina": "Solado_01",
+      "DataInicioPlanejada": "2025-02-06 13:12",
+      "DataFimPlanejada": "2025-02-06 18:12",
+      "QtdePlanejada": 233
+    },
+    {
+      "OP_ID": "OP2025-036",
+      "Modelo": "Social Derby",
+      "Tamanho": 44,
+      "Maquina": "Acabamento_01",
+      "DataInicioPlanejada": "2025-02-06 07:27",
+      "DataFimPlanejada": "2025-02-06 11:27",
+      "QtdePlanejada": 160
+    },
+    {
+      "OP_ID": "OP2025-037",
+      "Modelo": "Social Oxford Brogue",
+      "Tamanho": 42,
+      "Maquina": "Acabamento_01",
+      "DataInicioPlanejada": "2025-02-06 14:59",
+      "DataFimPlanejada": "2025-02-06 18:59",
+      "QtdePlanejada": 190
+    },
+    {
+      "OP_ID": "OP2025-038",
+      "Modelo": "Social Couro Liso",
+      "Tamanho": 42,
+      "Maquina": "Acabamento_01",
+      "DataInicioPlanejada": "2025-02-06 08:42",
+      "DataFimPlanejada": "2025-02-06 13:42",
+      "QtdePlanejada": 229
+    },
+    {
+      "OP_ID": "OP2025-039",
+      "Modelo": "Social Monk Strap",
+      "Tamanho": 40,
+      "Maquina": "Colagem_01",
+      "DataInicioPlanejada": "2025-02-06 13:21",
+      "DataFimPlanejada": "2025-02-06 17:21",
+      "QtdePlanejada": 260
+    },
+    {
+      "OP_ID": "OP2025-040",
+      "Modelo": "Social Oxford Premium",
+      "Tamanho": 42,
+      "Maquina": "Colagem_01",
+      "DataInicioPlanejada": "2025-02-07 08:23",
+      "DataFimPlanejada": "2025-02-07 11:23",
+      "QtdePlanejada": 180
+    },
+    {
+      "OP_ID": "OP2025-041",
+      "Modelo": "Social Oxford Brogue",
+      "Tamanho": 44,
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioPlanejada": "2025-02-07 14:49",
+      "DataFimPlanejada": "2025-02-07 17:49",
+      "QtdePlanejada": 182
+    },
+    {
+      "OP_ID": "OP2025-042",
+      "Modelo": "Social Monk Strap",
+      "Tamanho": 44,
+      "Maquina": "Acabamento_01",
+      "DataInicioPlanejada": "2025-02-07 08:37",
+      "DataFimPlanejada": "2025-02-07 11:37",
+      "QtdePlanejada": 173
+    },
+    {
+      "OP_ID": "OP2025-043",
+      "Modelo": "Social Oxford Brogue",
+      "Tamanho": 39,
+      "Maquina": "Acabamento_01",
+      "DataInicioPlanejada": "2025-02-07 14:29",
+      "DataFimPlanejada": "2025-02-07 17:29",
+      "QtdePlanejada": 176
+    },
+    {
+      "OP_ID": "OP2025-044",
+      "Modelo": "Social Monk Strap",
+      "Tamanho": 40,
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioPlanejada": "2025-02-07 08:01",
+      "DataFimPlanejada": "2025-02-07 12:01",
+      "QtdePlanejada": 179
+    },
+    {
+      "OP_ID": "OP2025-045",
+      "Modelo": "Social Oxford Brogue",
+      "Tamanho": 41,
+      "Maquina": "Acabamento_01",
+      "DataInicioPlanejada": "2025-02-07 14:42",
+      "DataFimPlanejada": "2025-02-07 17:42",
+      "QtdePlanejada": 167
+    },
+    {
+      "OP_ID": "OP2025-046",
+      "Modelo": "Social Verniz",
+      "Tamanho": 42,
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioPlanejada": "2025-02-07 07:57",
+      "DataFimPlanejada": "2025-02-07 10:57",
+      "QtdePlanejada": 253
+    },
+    {
+      "OP_ID": "OP2025-047",
+      "Modelo": "Social Couro Liso",
+      "Tamanho": 42,
+      "Maquina": "Acabamento_01",
+      "DataInicioPlanejada": "2025-02-07 13:08",
+      "DataFimPlanejada": "2025-02-07 17:08",
+      "QtdePlanejada": 253
+    },
+    {
+      "OP_ID": "OP2025-048",
+      "Modelo": "Social Derby",
+      "Tamanho": 39,
+      "Maquina": "Solado_01",
+      "DataInicioPlanejada": "2025-02-07 07:11",
+      "DataFimPlanejada": "2025-02-07 11:11",
+      "QtdePlanejada": 255
+    },
+    {
+      "OP_ID": "OP2025-049",
+      "Modelo": "Social Couro Texturizado",
+      "Tamanho": 43,
+      "Maquina": "Acabamento_01",
+      "DataInicioPlanejada": "2025-02-07 14:42",
+      "DataFimPlanejada": "2025-02-07 18:42",
+      "QtdePlanejada": 219
+    },
+    {
+      "OP_ID": "OP2025-050",
+      "Modelo": "Social Derby",
+      "Tamanho": 43,
+      "Maquina": "Colagem_01",
+      "DataInicioPlanejada": "2025-02-08 07:22",
+      "DataFimPlanejada": "2025-02-08 10:22",
+      "QtdePlanejada": 229
+    },
+    {
+      "OP_ID": "OP2025-051",
+      "Modelo": "Social Couro Liso",
+      "Tamanho": 43,
+      "Maquina": "Solado_01",
+      "DataInicioPlanejada": "2025-02-08 13:06",
+      "DataFimPlanejada": "2025-02-08 16:06",
+      "QtdePlanejada": 251
+    },
+    {
+      "OP_ID": "OP2025-052",
+      "Modelo": "Social Couro Texturizado",
+      "Tamanho": 43,
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioPlanejada": "2025-02-08 08:56",
+      "DataFimPlanejada": "2025-02-08 12:56",
+      "QtdePlanejada": 178
+    },
+    {
+      "OP_ID": "OP2025-053",
+      "Modelo": "Social Couro Liso",
+      "Tamanho": 39,
+      "Maquina": "Acabamento_01",
+      "DataInicioPlanejada": "2025-02-08 14:25",
+      "DataFimPlanejada": "2025-02-08 18:25",
+      "QtdePlanejada": 184
+    },
+    {
+      "OP_ID": "OP2025-054",
+      "Modelo": "Social Couro Liso",
+      "Tamanho": 43,
+      "Maquina": "Acabamento_01",
+      "DataInicioPlanejada": "2025-02-08 07:46",
+      "DataFimPlanejada": "2025-02-08 11:46",
+      "QtdePlanejada": 232
+    },
+    {
+      "OP_ID": "OP2025-055",
+      "Modelo": "Social Couro Liso",
+      "Tamanho": 42,
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioPlanejada": "2025-02-08 13:35",
+      "DataFimPlanejada": "2025-02-08 17:35",
+      "QtdePlanejada": 178
+    },
+    {
+      "OP_ID": "OP2025-056",
+      "Modelo": "Social Couro Liso",
+      "Tamanho": 40,
+      "Maquina": "Colagem_01",
+      "DataInicioPlanejada": "2025-02-08 07:37",
+      "DataFimPlanejada": "2025-02-08 12:37",
+      "QtdePlanejada": 224
+    },
+    {
+      "OP_ID": "OP2025-057",
+      "Modelo": "Social Couro Liso",
+      "Tamanho": 42,
+      "Maquina": "Colagem_01",
+      "DataInicioPlanejada": "2025-02-08 14:50",
+      "DataFimPlanejada": "2025-02-08 17:50",
+      "QtdePlanejada": 169
+    },
+    {
+      "OP_ID": "OP2025-058",
+      "Modelo": "Social Oxford Premium",
+      "Tamanho": 44,
+      "Maquina": "Acabamento_01",
+      "DataInicioPlanejada": "2025-02-08 07:25",
+      "DataFimPlanejada": "2025-02-08 10:25",
+      "QtdePlanejada": 192
+    },
+    {
+      "OP_ID": "OP2025-059",
+      "Modelo": "Social Couro Liso",
+      "Tamanho": 40,
+      "Maquina": "Acabamento_01",
+      "DataInicioPlanejada": "2025-02-08 14:59",
+      "DataFimPlanejada": "2025-02-08 17:59",
+      "QtdePlanejada": 233
+    },
+    {
+      "OP_ID": "OP2025-060",
+      "Modelo": "Social Derby",
+      "Tamanho": 43,
+      "Maquina": "Colagem_01",
+      "DataInicioPlanejada": "2025-02-09 07:36",
+      "DataFimPlanejada": "2025-02-09 10:36",
+      "QtdePlanejada": 244
+    },
+    {
+      "OP_ID": "OP2025-061",
+      "Modelo": "Social Verniz",
+      "Tamanho": 42,
+      "Maquina": "Solado_01",
+      "DataInicioPlanejada": "2025-02-09 13:37",
+      "DataFimPlanejada": "2025-02-09 17:37",
+      "QtdePlanejada": 191
+    },
+    {
+      "OP_ID": "OP2025-062",
+      "Modelo": "Social Couro Texturizado",
+      "Tamanho": 41,
+      "Maquina": "Acabamento_01",
+      "DataInicioPlanejada": "2025-02-09 07:37",
+      "DataFimPlanejada": "2025-02-09 10:37",
+      "QtdePlanejada": 171
+    },
+    {
+      "OP_ID": "OP2025-063",
+      "Modelo": "Social Oxford Premium",
+      "Tamanho": 41,
+      "Maquina": "Colagem_01",
+      "DataInicioPlanejada": "2025-02-09 13:09",
+      "DataFimPlanejada": "2025-02-09 16:09",
+      "QtdePlanejada": 203
+    },
+    {
+      "OP_ID": "OP2025-064",
+      "Modelo": "Social Monk Strap",
+      "Tamanho": 40,
+      "Maquina": "Colagem_01",
+      "DataInicioPlanejada": "2025-02-09 09:00",
+      "DataFimPlanejada": "2025-02-09 13:00",
+      "QtdePlanejada": 171
+    },
+    {
+      "OP_ID": "OP2025-065",
+      "Modelo": "Social Oxford Brogue",
+      "Tamanho": 44,
+      "Maquina": "Acabamento_01",
+      "DataInicioPlanejada": "2025-02-09 14:27",
+      "DataFimPlanejada": "2025-02-09 18:27",
+      "QtdePlanejada": 181
+    },
+    {
+      "OP_ID": "OP2025-066",
+      "Modelo": "Social Monk Strap",
+      "Tamanho": 43,
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioPlanejada": "2025-02-09 07:08",
+      "DataFimPlanejada": "2025-02-09 12:08",
+      "QtdePlanejada": 176
+    },
+    {
+      "OP_ID": "OP2025-067",
+      "Modelo": "Social Oxford Brogue",
+      "Tamanho": 39,
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioPlanejada": "2025-02-09 13:10",
+      "DataFimPlanejada": "2025-02-09 17:10",
+      "QtdePlanejada": 228
+    },
+    {
+      "OP_ID": "OP2025-068",
+      "Modelo": "Social Couro Liso",
+      "Tamanho": 40,
+      "Maquina": "Colagem_01",
+      "DataInicioPlanejada": "2025-02-09 07:30",
+      "DataFimPlanejada": "2025-02-09 12:30",
+      "QtdePlanejada": 175
+    },
+    {
+      "OP_ID": "OP2025-069",
+      "Modelo": "Social Oxford Brogue",
+      "Tamanho": 40,
+      "Maquina": "Acabamento_01",
+      "DataInicioPlanejada": "2025-02-09 14:20",
+      "DataFimPlanejada": "2025-02-09 18:20",
+      "QtdePlanejada": 168
+    },
+    {
+      "OP_ID": "OP2025-070",
+      "Modelo": "Social Couro Liso",
+      "Tamanho": 43,
+      "Maquina": "Acabamento_01",
+      "DataInicioPlanejada": "2025-02-10 09:00",
+      "DataFimPlanejada": "2025-02-10 12:00",
+      "QtdePlanejada": 186
+    },
+    {
+      "OP_ID": "OP2025-071",
+      "Modelo": "Social Couro Texturizado",
+      "Tamanho": 40,
+      "Maquina": "Acabamento_01",
+      "DataInicioPlanejada": "2025-02-10 13:55",
+      "DataFimPlanejada": "2025-02-10 17:55",
+      "QtdePlanejada": 201
+    },
+    {
+      "OP_ID": "OP2025-072",
+      "Modelo": "Social Verniz",
+      "Tamanho": 42,
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioPlanejada": "2025-02-10 07:23",
+      "DataFimPlanejada": "2025-02-10 10:23",
+      "QtdePlanejada": 189
+    },
+    {
+      "OP_ID": "OP2025-073",
+      "Modelo": "Social Couro Liso",
+      "Tamanho": 42,
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioPlanejada": "2025-02-10 13:52",
+      "DataFimPlanejada": "2025-02-10 16:52",
+      "QtdePlanejada": 202
+    },
+    {
+      "OP_ID": "OP2025-074",
+      "Modelo": "Social Oxford Brogue",
+      "Tamanho": 42,
+      "Maquina": "Colagem_01",
+      "DataInicioPlanejada": "2025-02-10 07:09",
+      "DataFimPlanejada": "2025-02-10 11:09",
+      "QtdePlanejada": 161
+    },
+    {
+      "OP_ID": "OP2025-075",
+      "Modelo": "Social Verniz",
+      "Tamanho": 41,
+      "Maquina": "Colagem_01",
+      "DataInicioPlanejada": "2025-02-10 13:07",
+      "DataFimPlanejada": "2025-02-10 18:07",
+      "QtdePlanejada": 226
+    },
+    {
+      "OP_ID": "OP2025-076",
+      "Modelo": "Social Oxford Brogue",
+      "Tamanho": 44,
+      "Maquina": "Colagem_01",
+      "DataInicioPlanejada": "2025-02-10 07:18",
+      "DataFimPlanejada": "2025-02-10 12:18",
+      "QtdePlanejada": 231
+    },
+    {
+      "OP_ID": "OP2025-077",
+      "Modelo": "Social Derby",
+      "Tamanho": 39,
+      "Maquina": "Solado_01",
+      "DataInicioPlanejada": "2025-02-10 14:26",
+      "DataFimPlanejada": "2025-02-10 19:26",
+      "QtdePlanejada": 169
+    },
+    {
+      "OP_ID": "OP2025-078",
+      "Modelo": "Social Derby",
+      "Tamanho": 39,
+      "Maquina": "Solado_01",
+      "DataInicioPlanejada": "2025-02-10 07:22",
+      "DataFimPlanejada": "2025-02-10 11:22",
+      "QtdePlanejada": 186
+    },
+    {
+      "OP_ID": "OP2025-079",
+      "Modelo": "Social Derby",
+      "Tamanho": 40,
+      "Maquina": "Solado_01",
+      "DataInicioPlanejada": "2025-02-10 14:34",
+      "DataFimPlanejada": "2025-02-10 19:34",
+      "QtdePlanejada": 250
+    },
+    {
+      "OP_ID": "OP2025-080",
+      "Modelo": "Social Couro Texturizado",
+      "Tamanho": 41,
+      "Maquina": "Solado_01",
+      "DataInicioPlanejada": "2025-02-11 07:14",
+      "DataFimPlanejada": "2025-02-11 10:14",
+      "QtdePlanejada": 183
+    },
+    {
+      "OP_ID": "OP2025-081",
+      "Modelo": "Social Oxford Premium",
+      "Tamanho": 43,
+      "Maquina": "Acabamento_01",
+      "DataInicioPlanejada": "2025-02-11 13:06",
+      "DataFimPlanejada": "2025-02-11 17:06",
+      "QtdePlanejada": 181
+    },
+    {
+      "OP_ID": "OP2025-082",
+      "Modelo": "Social Monk Strap",
+      "Tamanho": 41,
+      "Maquina": "Acabamento_01",
+      "DataInicioPlanejada": "2025-02-11 08:45",
+      "DataFimPlanejada": "2025-02-11 11:45",
+      "QtdePlanejada": 187
+    },
+    {
+      "OP_ID": "OP2025-083",
+      "Modelo": "Social Monk Strap",
+      "Tamanho": 40,
+      "Maquina": "Colagem_01",
+      "DataInicioPlanejada": "2025-02-11 14:59",
+      "DataFimPlanejada": "2025-02-11 17:59",
+      "QtdePlanejada": 199
+    },
+    {
+      "OP_ID": "OP2025-084",
+      "Modelo": "Social Oxford Premium",
+      "Tamanho": 40,
+      "Maquina": "Acabamento_01",
+      "DataInicioPlanejada": "2025-02-11 07:02",
+      "DataFimPlanejada": "2025-02-11 12:02",
+      "QtdePlanejada": 168
+    },
+    {
+      "OP_ID": "OP2025-085",
+      "Modelo": "Social Oxford Premium",
+      "Tamanho": 40,
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioPlanejada": "2025-02-11 13:23",
+      "DataFimPlanejada": "2025-02-11 17:23",
+      "QtdePlanejada": 252
+    },
+    {
+      "OP_ID": "OP2025-086",
+      "Modelo": "Social Couro Texturizado",
+      "Tamanho": 44,
+      "Maquina": "Solado_01",
+      "DataInicioPlanejada": "2025-02-11 08:17",
+      "DataFimPlanejada": "2025-02-11 13:17",
+      "QtdePlanejada": 198
+    },
+    {
+      "OP_ID": "OP2025-087",
+      "Modelo": "Social Monk Strap",
+      "Tamanho": 41,
+      "Maquina": "Acabamento_01",
+      "DataInicioPlanejada": "2025-02-11 13:12",
+      "DataFimPlanejada": "2025-02-11 18:12",
+      "QtdePlanejada": 182
+    },
+    {
+      "OP_ID": "OP2025-088",
+      "Modelo": "Social Couro Liso",
+      "Tamanho": 40,
+      "Maquina": "Colagem_01",
+      "DataInicioPlanejada": "2025-02-11 07:53",
+      "DataFimPlanejada": "2025-02-11 12:53",
+      "QtdePlanejada": 166
+    },
+    {
+      "OP_ID": "OP2025-089",
+      "Modelo": "Social Couro Texturizado",
+      "Tamanho": 44,
+      "Maquina": "Solado_01",
+      "DataInicioPlanejada": "2025-02-11 13:51",
+      "DataFimPlanejada": "2025-02-11 16:51",
+      "QtdePlanejada": 217
+    },
+    {
+      "OP_ID": "OP2025-090",
+      "Modelo": "Social Couro Texturizado",
+      "Tamanho": 44,
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioPlanejada": "2025-02-12 08:39",
+      "DataFimPlanejada": "2025-02-12 11:39",
+      "QtdePlanejada": 252
+    },
+    {
+      "OP_ID": "OP2025-091",
+      "Modelo": "Social Couro Liso",
+      "Tamanho": 44,
+      "Maquina": "Solado_01",
+      "DataInicioPlanejada": "2025-02-12 13:32",
+      "DataFimPlanejada": "2025-02-12 16:32",
+      "QtdePlanejada": 219
+    },
+    {
+      "OP_ID": "OP2025-092",
+      "Modelo": "Social Verniz",
+      "Tamanho": 43,
+      "Maquina": "Acabamento_01",
+      "DataInicioPlanejada": "2025-02-12 08:17",
+      "DataFimPlanejada": "2025-02-12 12:17",
+      "QtdePlanejada": 194
+    },
+    {
+      "OP_ID": "OP2025-093",
+      "Modelo": "Social Verniz",
+      "Tamanho": 44,
+      "Maquina": "Solado_01",
+      "DataInicioPlanejada": "2025-02-12 13:08",
+      "DataFimPlanejada": "2025-02-12 18:08",
+      "QtdePlanejada": 179
+    },
+    {
+      "OP_ID": "OP2025-094",
+      "Modelo": "Social Oxford Premium",
+      "Tamanho": 43,
+      "Maquina": "Acabamento_01",
+      "DataInicioPlanejada": "2025-02-12 08:28",
+      "DataFimPlanejada": "2025-02-12 12:28",
+      "QtdePlanejada": 162
+    },
+    {
+      "OP_ID": "OP2025-095",
+      "Modelo": "Social Couro Texturizado",
+      "Tamanho": 41,
+      "Maquina": "Acabamento_01",
+      "DataInicioPlanejada": "2025-02-12 14:28",
+      "DataFimPlanejada": "2025-02-12 19:28",
+      "QtdePlanejada": 198
+    },
+    {
+      "OP_ID": "OP2025-096",
+      "Modelo": "Social Derby",
+      "Tamanho": 43,
+      "Maquina": "Acabamento_01",
+      "DataInicioPlanejada": "2025-02-12 08:08",
+      "DataFimPlanejada": "2025-02-12 13:08",
+      "QtdePlanejada": 184
+    },
+    {
+      "OP_ID": "OP2025-097",
+      "Modelo": "Social Couro Liso",
+      "Tamanho": 39,
+      "Maquina": "Solado_01",
+      "DataInicioPlanejada": "2025-02-12 14:39",
+      "DataFimPlanejada": "2025-02-12 18:39",
+      "QtdePlanejada": 170
+    },
+    {
+      "OP_ID": "OP2025-098",
+      "Modelo": "Social Derby",
+      "Tamanho": 43,
+      "Maquina": "Solado_01",
+      "DataInicioPlanejada": "2025-02-12 07:56",
+      "DataFimPlanejada": "2025-02-12 10:56",
+      "QtdePlanejada": 181
+    },
+    {
+      "OP_ID": "OP2025-099",
+      "Modelo": "Social Couro Texturizado",
+      "Tamanho": 44,
+      "Maquina": "Colagem_01",
+      "DataInicioPlanejada": "2025-02-12 13:07",
+      "DataFimPlanejada": "2025-02-12 18:07",
+      "QtdePlanejada": 208
+    },
+    {
+      "OP_ID": "OP2025-100",
+      "Modelo": "Social Derby",
+      "Tamanho": 43,
+      "Maquina": "Solado_01",
+      "DataInicioPlanejada": "2025-02-13 08:56",
+      "DataFimPlanejada": "2025-02-13 11:56",
+      "QtdePlanejada": 225
+    },
+    {
+      "OP_ID": "OP2025-101",
+      "Modelo": "Social Monk Strap",
+      "Tamanho": 42,
+      "Maquina": "Solado_01",
+      "DataInicioPlanejada": "2025-02-13 14:15",
+      "DataFimPlanejada": "2025-02-13 18:15",
+      "QtdePlanejada": 208
+    },
+    {
+      "OP_ID": "OP2025-102",
+      "Modelo": "Social Oxford Brogue",
+      "Tamanho": 39,
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioPlanejada": "2025-02-13 08:36",
+      "DataFimPlanejada": "2025-02-13 11:36",
+      "QtdePlanejada": 197
+    },
+    {
+      "OP_ID": "OP2025-103",
+      "Modelo": "Social Verniz",
+      "Tamanho": 41,
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioPlanejada": "2025-02-13 14:26",
+      "DataFimPlanejada": "2025-02-13 17:26",
+      "QtdePlanejada": 259
+    },
+    {
+      "OP_ID": "OP2025-104",
+      "Modelo": "Social Derby",
+      "Tamanho": 39,
+      "Maquina": "Colagem_01",
+      "DataInicioPlanejada": "2025-02-13 08:02",
+      "DataFimPlanejada": "2025-02-13 11:02",
+      "QtdePlanejada": 179
+    },
+    {
+      "OP_ID": "OP2025-105",
+      "Modelo": "Social Verniz",
+      "Tamanho": 40,
+      "Maquina": "Acabamento_01",
+      "DataInicioPlanejada": "2025-02-13 13:45",
+      "DataFimPlanejada": "2025-02-13 16:45",
+      "QtdePlanejada": 180
+    },
+    {
+      "OP_ID": "OP2025-106",
+      "Modelo": "Social Couro Texturizado",
+      "Tamanho": 43,
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioPlanejada": "2025-02-13 07:51",
+      "DataFimPlanejada": "2025-02-13 11:51",
+      "QtdePlanejada": 224
+    },
+    {
+      "OP_ID": "OP2025-107",
+      "Modelo": "Social Monk Strap",
+      "Tamanho": 39,
+      "Maquina": "Colagem_01",
+      "DataInicioPlanejada": "2025-02-13 14:49",
+      "DataFimPlanejada": "2025-02-13 19:49",
+      "QtdePlanejada": 231
+    },
+    {
+      "OP_ID": "OP2025-108",
+      "Modelo": "Social Verniz",
+      "Tamanho": 44,
+      "Maquina": "Colagem_01",
+      "DataInicioPlanejada": "2025-02-13 08:37",
+      "DataFimPlanejada": "2025-02-13 12:37",
+      "QtdePlanejada": 257
+    },
+    {
+      "OP_ID": "OP2025-109",
+      "Modelo": "Social Oxford Brogue",
+      "Tamanho": 39,
+      "Maquina": "Colagem_01",
+      "DataInicioPlanejada": "2025-02-13 14:07",
+      "DataFimPlanejada": "2025-02-13 18:07",
+      "QtdePlanejada": 207
+    },
+    {
+      "OP_ID": "OP2025-110",
+      "Modelo": "Social Oxford Premium",
+      "Tamanho": 44,
+      "Maquina": "Solado_01",
+      "DataInicioPlanejada": "2025-02-14 07:34",
+      "DataFimPlanejada": "2025-02-14 11:34",
+      "QtdePlanejada": 211
+    },
+    {
+      "OP_ID": "OP2025-111",
+      "Modelo": "Social Couro Liso",
+      "Tamanho": 41,
+      "Maquina": "Solado_01",
+      "DataInicioPlanejada": "2025-02-14 13:07",
+      "DataFimPlanejada": "2025-02-14 16:07",
+      "QtdePlanejada": 171
+    },
+    {
+      "OP_ID": "OP2025-112",
+      "Modelo": "Social Couro Liso",
+      "Tamanho": 44,
+      "Maquina": "Solado_01",
+      "DataInicioPlanejada": "2025-02-14 07:53",
+      "DataFimPlanejada": "2025-02-14 12:53",
+      "QtdePlanejada": 223
+    },
+    {
+      "OP_ID": "OP2025-113",
+      "Modelo": "Social Couro Texturizado",
+      "Tamanho": 42,
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioPlanejada": "2025-02-14 14:19",
+      "DataFimPlanejada": "2025-02-14 19:19",
+      "QtdePlanejada": 250
+    },
+    {
+      "OP_ID": "OP2025-114",
+      "Modelo": "Social Verniz",
+      "Tamanho": 42,
+      "Maquina": "Acabamento_01",
+      "DataInicioPlanejada": "2025-02-14 08:44",
+      "DataFimPlanejada": "2025-02-14 11:44",
+      "QtdePlanejada": 182
+    },
+    {
+      "OP_ID": "OP2025-115",
+      "Modelo": "Social Derby",
+      "Tamanho": 43,
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioPlanejada": "2025-02-14 13:45",
+      "DataFimPlanejada": "2025-02-14 18:45",
+      "QtdePlanejada": 202
+    },
+    {
+      "OP_ID": "OP2025-116",
+      "Modelo": "Social Monk Strap",
+      "Tamanho": 41,
+      "Maquina": "Solado_01",
+      "DataInicioPlanejada": "2025-02-14 08:23",
+      "DataFimPlanejada": "2025-02-14 13:23",
+      "QtdePlanejada": 181
+    },
+    {
+      "OP_ID": "OP2025-117",
+      "Modelo": "Social Verniz",
+      "Tamanho": 43,
+      "Maquina": "Acabamento_01",
+      "DataInicioPlanejada": "2025-02-14 13:56",
+      "DataFimPlanejada": "2025-02-14 18:56",
+      "QtdePlanejada": 242
+    },
+    {
+      "OP_ID": "OP2025-118",
+      "Modelo": "Social Couro Texturizado",
+      "Tamanho": 44,
+      "Maquina": "Solado_01",
+      "DataInicioPlanejada": "2025-02-14 07:05",
+      "DataFimPlanejada": "2025-02-14 12:05",
+      "QtdePlanejada": 198
+    },
+    {
+      "OP_ID": "OP2025-119",
+      "Modelo": "Social Verniz",
+      "Tamanho": 44,
+      "Maquina": "Acabamento_01",
+      "DataInicioPlanejada": "2025-02-14 13:07",
+      "DataFimPlanejada": "2025-02-14 17:07",
+      "QtdePlanejada": 187
+    },
+    {
+      "OP_ID": "OP2025-120",
+      "Modelo": "Social Derby",
+      "Tamanho": 39,
+      "Maquina": "Colagem_01",
+      "DataInicioPlanejada": "2025-02-15 08:41",
+      "DataFimPlanejada": "2025-02-15 12:41",
+      "QtdePlanejada": 225
+    },
+    {
+      "OP_ID": "OP2025-121",
+      "Modelo": "Social Couro Texturizado",
+      "Tamanho": 39,
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioPlanejada": "2025-02-15 14:59",
+      "DataFimPlanejada": "2025-02-15 19:59",
+      "QtdePlanejada": 209
+    },
+    {
+      "OP_ID": "OP2025-122",
+      "Modelo": "Social Couro Texturizado",
+      "Tamanho": 41,
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioPlanejada": "2025-02-15 07:21",
+      "DataFimPlanejada": "2025-02-15 11:21",
+      "QtdePlanejada": 230
+    },
+    {
+      "OP_ID": "OP2025-123",
+      "Modelo": "Social Couro Texturizado",
+      "Tamanho": 44,
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioPlanejada": "2025-02-15 14:31",
+      "DataFimPlanejada": "2025-02-15 19:31",
+      "QtdePlanejada": 223
+    },
+    {
+      "OP_ID": "OP2025-124",
+      "Modelo": "Social Derby",
+      "Tamanho": 41,
+      "Maquina": "Solado_01",
+      "DataInicioPlanejada": "2025-02-15 08:48",
+      "DataFimPlanejada": "2025-02-15 12:48",
+      "QtdePlanejada": 178
+    },
+    {
+      "OP_ID": "OP2025-125",
+      "Modelo": "Social Verniz",
+      "Tamanho": 39,
+      "Maquina": "Colagem_01",
+      "DataInicioPlanejada": "2025-02-15 14:08",
+      "DataFimPlanejada": "2025-02-15 17:08",
+      "QtdePlanejada": 242
+    },
+    {
+      "OP_ID": "OP2025-126",
+      "Modelo": "Social Oxford Premium",
+      "Tamanho": 44,
+      "Maquina": "Acabamento_01",
+      "DataInicioPlanejada": "2025-02-15 07:08",
+      "DataFimPlanejada": "2025-02-15 11:08",
+      "QtdePlanejada": 213
+    },
+    {
+      "OP_ID": "OP2025-127",
+      "Modelo": "Social Oxford Premium",
+      "Tamanho": 42,
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioPlanejada": "2025-02-15 14:20",
+      "DataFimPlanejada": "2025-02-15 19:20",
+      "QtdePlanejada": 201
+    },
+    {
+      "OP_ID": "OP2025-128",
+      "Modelo": "Social Couro Texturizado",
+      "Tamanho": 42,
+      "Maquina": "Solado_01",
+      "DataInicioPlanejada": "2025-02-15 08:36",
+      "DataFimPlanejada": "2025-02-15 12:36",
+      "QtdePlanejada": 177
+    },
+    {
+      "OP_ID": "OP2025-129",
+      "Modelo": "Social Monk Strap",
+      "Tamanho": 41,
+      "Maquina": "Acabamento_01",
+      "DataInicioPlanejada": "2025-02-15 13:41",
+      "DataFimPlanejada": "2025-02-15 18:41",
+      "QtdePlanejada": 219
+    },
+    {
+      "OP_ID": "OP2025-130",
+      "Modelo": "Social Verniz",
+      "Tamanho": 44,
+      "Maquina": "Acabamento_01",
+      "DataInicioPlanejada": "2025-02-16 07:54",
+      "DataFimPlanejada": "2025-02-16 10:54",
+      "QtdePlanejada": 198
+    },
+    {
+      "OP_ID": "OP2025-131",
+      "Modelo": "Social Derby",
+      "Tamanho": 41,
+      "Maquina": "Solado_01",
+      "DataInicioPlanejada": "2025-02-16 14:41",
+      "DataFimPlanejada": "2025-02-16 18:41",
+      "QtdePlanejada": 163
+    },
+    {
+      "OP_ID": "OP2025-132",
+      "Modelo": "Social Oxford Premium",
+      "Tamanho": 40,
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioPlanejada": "2025-02-16 08:07",
+      "DataFimPlanejada": "2025-02-16 13:07",
+      "QtdePlanejada": 181
+    },
+    {
+      "OP_ID": "OP2025-133",
+      "Modelo": "Social Couro Texturizado",
+      "Tamanho": 44,
+      "Maquina": "Acabamento_01",
+      "DataInicioPlanejada": "2025-02-16 14:15",
+      "DataFimPlanejada": "2025-02-16 19:15",
+      "QtdePlanejada": 209
+    },
+    {
+      "OP_ID": "OP2025-134",
+      "Modelo": "Social Couro Texturizado",
+      "Tamanho": 42,
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioPlanejada": "2025-02-16 07:39",
+      "DataFimPlanejada": "2025-02-16 11:39",
+      "QtdePlanejada": 171
+    },
+    {
+      "OP_ID": "OP2025-135",
+      "Modelo": "Social Couro Liso",
+      "Tamanho": 41,
+      "Maquina": "Acabamento_01",
+      "DataInicioPlanejada": "2025-02-16 14:16",
+      "DataFimPlanejada": "2025-02-16 18:16",
+      "QtdePlanejada": 166
+    },
+    {
+      "OP_ID": "OP2025-136",
+      "Modelo": "Social Couro Texturizado",
+      "Tamanho": 42,
+      "Maquina": "Acabamento_01",
+      "DataInicioPlanejada": "2025-02-16 08:39",
+      "DataFimPlanejada": "2025-02-16 12:39",
+      "QtdePlanejada": 171
+    },
+    {
+      "OP_ID": "OP2025-137",
+      "Modelo": "Social Monk Strap",
+      "Tamanho": 42,
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioPlanejada": "2025-02-16 14:45",
+      "DataFimPlanejada": "2025-02-16 17:45",
+      "QtdePlanejada": 161
+    },
+    {
+      "OP_ID": "OP2025-138",
+      "Modelo": "Social Oxford Premium",
+      "Tamanho": 42,
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioPlanejada": "2025-02-16 07:11",
+      "DataFimPlanejada": "2025-02-16 10:11",
+      "QtdePlanejada": 259
+    },
+    {
+      "OP_ID": "OP2025-139",
+      "Modelo": "Social Couro Liso",
+      "Tamanho": 44,
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioPlanejada": "2025-02-16 13:51",
+      "DataFimPlanejada": "2025-02-16 18:51",
+      "QtdePlanejada": 255
+    },
+    {
+      "OP_ID": "OP2025-140",
+      "Modelo": "Social Monk Strap",
+      "Tamanho": 44,
+      "Maquina": "Colagem_01",
+      "DataInicioPlanejada": "2025-02-17 07:16",
+      "DataFimPlanejada": "2025-02-17 10:16",
+      "QtdePlanejada": 183
+    },
+    {
+      "OP_ID": "OP2025-141",
+      "Modelo": "Social Couro Liso",
+      "Tamanho": 40,
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioPlanejada": "2025-02-17 14:40",
+      "DataFimPlanejada": "2025-02-17 17:40",
+      "QtdePlanejada": 197
+    },
+    {
+      "OP_ID": "OP2025-142",
+      "Modelo": "Social Oxford Brogue",
+      "Tamanho": 39,
+      "Maquina": "Solado_01",
+      "DataInicioPlanejada": "2025-02-17 07:19",
+      "DataFimPlanejada": "2025-02-17 12:19",
+      "QtdePlanejada": 191
+    },
+    {
+      "OP_ID": "OP2025-143",
+      "Modelo": "Social Oxford Premium",
+      "Tamanho": 41,
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioPlanejada": "2025-02-17 13:43",
+      "DataFimPlanejada": "2025-02-17 16:43",
+      "QtdePlanejada": 257
+    },
+    {
+      "OP_ID": "OP2025-144",
+      "Modelo": "Social Derby",
+      "Tamanho": 44,
+      "Maquina": "Acabamento_01",
+      "DataInicioPlanejada": "2025-02-17 07:04",
+      "DataFimPlanejada": "2025-02-17 11:04",
+      "QtdePlanejada": 191
+    },
+    {
+      "OP_ID": "OP2025-145",
+      "Modelo": "Social Couro Liso",
+      "Tamanho": 39,
+      "Maquina": "Colagem_01",
+      "DataInicioPlanejada": "2025-02-17 14:52",
+      "DataFimPlanejada": "2025-02-17 17:52",
+      "QtdePlanejada": 241
+    },
+    {
+      "OP_ID": "OP2025-146",
+      "Modelo": "Social Couro Texturizado",
+      "Tamanho": 44,
+      "Maquina": "Acabamento_01",
+      "DataInicioPlanejada": "2025-02-17 07:49",
+      "DataFimPlanejada": "2025-02-17 10:49",
+      "QtdePlanejada": 252
+    },
+    {
+      "OP_ID": "OP2025-147",
+      "Modelo": "Social Couro Texturizado",
+      "Tamanho": 43,
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioPlanejada": "2025-02-17 14:38",
+      "DataFimPlanejada": "2025-02-17 18:38",
+      "QtdePlanejada": 174
+    },
+    {
+      "OP_ID": "OP2025-148",
+      "Modelo": "Social Oxford Brogue",
+      "Tamanho": 42,
+      "Maquina": "Colagem_01",
+      "DataInicioPlanejada": "2025-02-17 08:21",
+      "DataFimPlanejada": "2025-02-17 13:21",
+      "QtdePlanejada": 169
+    },
+    {
+      "OP_ID": "OP2025-149",
+      "Modelo": "Social Verniz",
+      "Tamanho": 43,
+      "Maquina": "Colagem_01",
+      "DataInicioPlanejada": "2025-02-17 14:41",
+      "DataFimPlanejada": "2025-02-17 19:41",
+      "QtdePlanejada": 210
+    },
+    {
+      "OP_ID": "OP2025-150",
+      "Modelo": "Social Couro Liso",
+      "Tamanho": 44,
+      "Maquina": "Solado_01",
+      "DataInicioPlanejada": "2025-02-18 07:43",
+      "DataFimPlanejada": "2025-02-18 12:43",
+      "QtdePlanejada": 213
+    },
+    {
+      "OP_ID": "OP2025-151",
+      "Modelo": "Social Derby",
+      "Tamanho": 40,
+      "Maquina": "Acabamento_01",
+      "DataInicioPlanejada": "2025-02-18 13:33",
+      "DataFimPlanejada": "2025-02-18 18:33",
+      "QtdePlanejada": 216
+    },
+    {
+      "OP_ID": "OP2025-152",
+      "Modelo": "Social Derby",
+      "Tamanho": 40,
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioPlanejada": "2025-02-18 07:36",
+      "DataFimPlanejada": "2025-02-18 10:36",
+      "QtdePlanejada": 181
+    },
+    {
+      "OP_ID": "OP2025-153",
+      "Modelo": "Social Monk Strap",
+      "Tamanho": 40,
+      "Maquina": "Solado_01",
+      "DataInicioPlanejada": "2025-02-18 14:25",
+      "DataFimPlanejada": "2025-02-18 18:25",
+      "QtdePlanejada": 241
+    },
+    {
+      "OP_ID": "OP2025-154",
+      "Modelo": "Social Verniz",
+      "Tamanho": 43,
+      "Maquina": "Solado_01",
+      "DataInicioPlanejada": "2025-02-18 08:45",
+      "DataFimPlanejada": "2025-02-18 13:45",
+      "QtdePlanejada": 186
+    },
+    {
+      "OP_ID": "OP2025-155",
+      "Modelo": "Social Verniz",
+      "Tamanho": 43,
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioPlanejada": "2025-02-18 13:29",
+      "DataFimPlanejada": "2025-02-18 17:29",
+      "QtdePlanejada": 257
+    },
+    {
+      "OP_ID": "OP2025-156",
+      "Modelo": "Social Oxford Brogue",
+      "Tamanho": 41,
+      "Maquina": "Solado_01",
+      "DataInicioPlanejada": "2025-02-18 07:07",
+      "DataFimPlanejada": "2025-02-18 11:07",
+      "QtdePlanejada": 210
+    },
+    {
+      "OP_ID": "OP2025-157",
+      "Modelo": "Social Monk Strap",
+      "Tamanho": 41,
+      "Maquina": "Colagem_01",
+      "DataInicioPlanejada": "2025-02-18 14:07",
+      "DataFimPlanejada": "2025-02-18 19:07",
+      "QtdePlanejada": 234
+    },
+    {
+      "OP_ID": "OP2025-158",
+      "Modelo": "Social Couro Liso",
+      "Tamanho": 41,
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioPlanejada": "2025-02-18 09:00",
+      "DataFimPlanejada": "2025-02-18 13:00",
+      "QtdePlanejada": 176
+    },
+    {
+      "OP_ID": "OP2025-159",
+      "Modelo": "Social Verniz",
+      "Tamanho": 43,
+      "Maquina": "Acabamento_01",
+      "DataInicioPlanejada": "2025-02-18 14:11",
+      "DataFimPlanejada": "2025-02-18 18:11",
+      "QtdePlanejada": 236
+    },
+    {
+      "OP_ID": "OP2025-160",
+      "Modelo": "Social Couro Liso",
+      "Tamanho": 39,
+      "Maquina": "Colagem_01",
+      "DataInicioPlanejada": "2025-02-19 07:25",
+      "DataFimPlanejada": "2025-02-19 12:25",
+      "QtdePlanejada": 209
+    },
+    {
+      "OP_ID": "OP2025-161",
+      "Modelo": "Social Oxford Premium",
+      "Tamanho": 41,
+      "Maquina": "Solado_01",
+      "DataInicioPlanejada": "2025-02-19 14:47",
+      "DataFimPlanejada": "2025-02-19 19:47",
+      "QtdePlanejada": 179
+    },
+    {
+      "OP_ID": "OP2025-162",
+      "Modelo": "Social Verniz",
+      "Tamanho": 42,
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioPlanejada": "2025-02-19 08:27",
+      "DataFimPlanejada": "2025-02-19 12:27",
+      "QtdePlanejada": 243
+    },
+    {
+      "OP_ID": "OP2025-163",
+      "Modelo": "Social Monk Strap",
+      "Tamanho": 43,
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioPlanejada": "2025-02-19 14:59",
+      "DataFimPlanejada": "2025-02-19 17:59",
+      "QtdePlanejada": 230
+    },
+    {
+      "OP_ID": "OP2025-164",
+      "Modelo": "Social Derby",
+      "Tamanho": 41,
+      "Maquina": "Solado_01",
+      "DataInicioPlanejada": "2025-02-19 08:18",
+      "DataFimPlanejada": "2025-02-19 12:18",
+      "QtdePlanejada": 182
+    },
+    {
+      "OP_ID": "OP2025-165",
+      "Modelo": "Social Oxford Premium",
+      "Tamanho": 44,
+      "Maquina": "Acabamento_01",
+      "DataInicioPlanejada": "2025-02-19 13:48",
+      "DataFimPlanejada": "2025-02-19 18:48",
+      "QtdePlanejada": 238
+    },
+    {
+      "OP_ID": "OP2025-166",
+      "Modelo": "Social Couro Texturizado",
+      "Tamanho": 44,
+      "Maquina": "Solado_01",
+      "DataInicioPlanejada": "2025-02-19 07:51",
+      "DataFimPlanejada": "2025-02-19 12:51",
+      "QtdePlanejada": 226
+    },
+    {
+      "OP_ID": "OP2025-167",
+      "Modelo": "Social Derby",
+      "Tamanho": 43,
+      "Maquina": "Solado_01",
+      "DataInicioPlanejada": "2025-02-19 13:30",
+      "DataFimPlanejada": "2025-02-19 18:30",
+      "QtdePlanejada": 219
+    },
+    {
+      "OP_ID": "OP2025-168",
+      "Modelo": "Social Couro Liso",
+      "Tamanho": 42,
+      "Maquina": "Colagem_01",
+      "DataInicioPlanejada": "2025-02-19 08:10",
+      "DataFimPlanejada": "2025-02-19 13:10",
+      "QtdePlanejada": 165
+    },
+    {
+      "OP_ID": "OP2025-169",
+      "Modelo": "Social Couro Liso",
+      "Tamanho": 42,
+      "Maquina": "Acabamento_01",
+      "DataInicioPlanejada": "2025-02-19 13:46",
+      "DataFimPlanejada": "2025-02-19 17:46",
+      "QtdePlanejada": 216
+    },
+    {
+      "OP_ID": "OP2025-170",
+      "Modelo": "Social Couro Texturizado",
+      "Tamanho": 42,
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioPlanejada": "2025-02-20 07:34",
+      "DataFimPlanejada": "2025-02-20 12:34",
+      "QtdePlanejada": 244
+    },
+    {
+      "OP_ID": "OP2025-171",
+      "Modelo": "Social Couro Liso",
+      "Tamanho": 44,
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioPlanejada": "2025-02-20 14:59",
+      "DataFimPlanejada": "2025-02-20 19:59",
+      "QtdePlanejada": 232
+    },
+    {
+      "OP_ID": "OP2025-172",
+      "Modelo": "Social Couro Texturizado",
+      "Tamanho": 40,
+      "Maquina": "Solado_01",
+      "DataInicioPlanejada": "2025-02-20 07:08",
+      "DataFimPlanejada": "2025-02-20 12:08",
+      "QtdePlanejada": 210
+    },
+    {
+      "OP_ID": "OP2025-173",
+      "Modelo": "Social Derby",
+      "Tamanho": 41,
+      "Maquina": "Solado_01",
+      "DataInicioPlanejada": "2025-02-20 13:35",
+      "DataFimPlanejada": "2025-02-20 16:35",
+      "QtdePlanejada": 196
+    },
+    {
+      "OP_ID": "OP2025-174",
+      "Modelo": "Social Oxford Premium",
+      "Tamanho": 43,
+      "Maquina": "Colagem_01",
+      "DataInicioPlanejada": "2025-02-20 08:40",
+      "DataFimPlanejada": "2025-02-20 13:40",
+      "QtdePlanejada": 221
+    },
+    {
+      "OP_ID": "OP2025-175",
+      "Modelo": "Social Couro Liso",
+      "Tamanho": 40,
+      "Maquina": "Colagem_01",
+      "DataInicioPlanejada": "2025-02-20 14:44",
+      "DataFimPlanejada": "2025-02-20 19:44",
+      "QtdePlanejada": 220
+    },
+    {
+      "OP_ID": "OP2025-176",
+      "Modelo": "Social Verniz",
+      "Tamanho": 44,
+      "Maquina": "Acabamento_01",
+      "DataInicioPlanejada": "2025-02-20 08:30",
+      "DataFimPlanejada": "2025-02-20 11:30",
+      "QtdePlanejada": 258
+    },
+    {
+      "OP_ID": "OP2025-177",
+      "Modelo": "Social Verniz",
+      "Tamanho": 44,
+      "Maquina": "Acabamento_01",
+      "DataInicioPlanejada": "2025-02-20 14:46",
+      "DataFimPlanejada": "2025-02-20 19:46",
+      "QtdePlanejada": 207
+    },
+    {
+      "OP_ID": "OP2025-178",
+      "Modelo": "Social Couro Texturizado",
+      "Tamanho": 43,
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioPlanejada": "2025-02-20 07:38",
+      "DataFimPlanejada": "2025-02-20 10:38",
+      "QtdePlanejada": 242
+    },
+    {
+      "OP_ID": "OP2025-179",
+      "Modelo": "Social Couro Texturizado",
+      "Tamanho": 43,
+      "Maquina": "Acabamento_01",
+      "DataInicioPlanejada": "2025-02-20 13:22",
+      "DataFimPlanejada": "2025-02-20 18:22",
+      "QtdePlanejada": 252
+    },
+    {
+      "OP_ID": "OP2025-180",
+      "Modelo": "Social Couro Liso",
+      "Tamanho": 44,
+      "Maquina": "Colagem_01",
+      "DataInicioPlanejada": "2025-02-21 08:28",
+      "DataFimPlanejada": "2025-02-21 12:28",
+      "QtdePlanejada": 171
+    },
+    {
+      "OP_ID": "OP2025-181",
+      "Modelo": "Social Monk Strap",
+      "Tamanho": 40,
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioPlanejada": "2025-02-21 14:21",
+      "DataFimPlanejada": "2025-02-21 18:21",
+      "QtdePlanejada": 177
+    },
+    {
+      "OP_ID": "OP2025-182",
+      "Modelo": "Social Couro Texturizado",
+      "Tamanho": 39,
+      "Maquina": "Solado_01",
+      "DataInicioPlanejada": "2025-02-21 08:07",
+      "DataFimPlanejada": "2025-02-21 13:07",
+      "QtdePlanejada": 196
+    },
+    {
+      "OP_ID": "OP2025-183",
+      "Modelo": "Social Monk Strap",
+      "Tamanho": 41,
+      "Maquina": "Colagem_01",
+      "DataInicioPlanejada": "2025-02-21 13:10",
+      "DataFimPlanejada": "2025-02-21 17:10",
+      "QtdePlanejada": 181
+    },
+    {
+      "OP_ID": "OP2025-184",
+      "Modelo": "Social Verniz",
+      "Tamanho": 43,
+      "Maquina": "Solado_01",
+      "DataInicioPlanejada": "2025-02-21 07:01",
+      "DataFimPlanejada": "2025-02-21 10:01",
+      "QtdePlanejada": 202
+    },
+    {
+      "OP_ID": "OP2025-185",
+      "Modelo": "Social Derby",
+      "Tamanho": 42,
+      "Maquina": "Solado_01",
+      "DataInicioPlanejada": "2025-02-21 13:03",
+      "DataFimPlanejada": "2025-02-21 16:03",
+      "QtdePlanejada": 255
+    },
+    {
+      "OP_ID": "OP2025-186",
+      "Modelo": "Social Verniz",
+      "Tamanho": 43,
+      "Maquina": "Acabamento_01",
+      "DataInicioPlanejada": "2025-02-21 08:22",
+      "DataFimPlanejada": "2025-02-21 11:22",
+      "QtdePlanejada": 238
+    },
+    {
+      "OP_ID": "OP2025-187",
+      "Modelo": "Social Oxford Brogue",
+      "Tamanho": 43,
+      "Maquina": "Solado_01",
+      "DataInicioPlanejada": "2025-02-21 14:30",
+      "DataFimPlanejada": "2025-02-21 18:30",
+      "QtdePlanejada": 225
+    },
+    {
+      "OP_ID": "OP2025-188",
+      "Modelo": "Social Oxford Brogue",
+      "Tamanho": 41,
+      "Maquina": "Solado_01",
+      "DataInicioPlanejada": "2025-02-21 07:46",
+      "DataFimPlanejada": "2025-02-21 12:46",
+      "QtdePlanejada": 195
+    },
+    {
+      "OP_ID": "OP2025-189",
+      "Modelo": "Social Couro Texturizado",
+      "Tamanho": 43,
+      "Maquina": "Solado_01",
+      "DataInicioPlanejada": "2025-02-21 14:18",
+      "DataFimPlanejada": "2025-02-21 18:18",
+      "QtdePlanejada": 236
+    },
+    {
+      "OP_ID": "OP2025-190",
+      "Modelo": "Social Oxford Brogue",
+      "Tamanho": 40,
+      "Maquina": "Colagem_01",
+      "DataInicioPlanejada": "2025-02-22 08:58",
+      "DataFimPlanejada": "2025-02-22 12:58",
+      "QtdePlanejada": 257
+    },
+    {
+      "OP_ID": "OP2025-191",
+      "Modelo": "Social Verniz",
+      "Tamanho": 44,
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioPlanejada": "2025-02-22 13:50",
+      "DataFimPlanejada": "2025-02-22 16:50",
+      "QtdePlanejada": 192
+    },
+    {
+      "OP_ID": "OP2025-192",
+      "Modelo": "Social Verniz",
+      "Tamanho": 40,
+      "Maquina": "Colagem_01",
+      "DataInicioPlanejada": "2025-02-22 08:22",
+      "DataFimPlanejada": "2025-02-22 11:22",
+      "QtdePlanejada": 185
+    },
+    {
+      "OP_ID": "OP2025-193",
+      "Modelo": "Social Oxford Premium",
+      "Tamanho": 40,
+      "Maquina": "Acabamento_01",
+      "DataInicioPlanejada": "2025-02-22 13:24",
+      "DataFimPlanejada": "2025-02-22 17:24",
+      "QtdePlanejada": 163
+    },
+    {
+      "OP_ID": "OP2025-194",
+      "Modelo": "Social Monk Strap",
+      "Tamanho": 42,
+      "Maquina": "Colagem_01",
+      "DataInicioPlanejada": "2025-02-22 08:54",
+      "DataFimPlanejada": "2025-02-22 13:54",
+      "QtdePlanejada": 217
+    },
+    {
+      "OP_ID": "OP2025-195",
+      "Modelo": "Social Monk Strap",
+      "Tamanho": 44,
+      "Maquina": "Acabamento_01",
+      "DataInicioPlanejada": "2025-02-22 14:40",
+      "DataFimPlanejada": "2025-02-22 18:40",
+      "QtdePlanejada": 245
+    },
+    {
+      "OP_ID": "OP2025-196",
+      "Modelo": "Social Derby",
+      "Tamanho": 40,
+      "Maquina": "Acabamento_01",
+      "DataInicioPlanejada": "2025-02-22 07:57",
+      "DataFimPlanejada": "2025-02-22 11:57",
+      "QtdePlanejada": 188
+    },
+    {
+      "OP_ID": "OP2025-197",
+      "Modelo": "Social Oxford Premium",
+      "Tamanho": 40,
+      "Maquina": "Colagem_01",
+      "DataInicioPlanejada": "2025-02-22 14:54",
+      "DataFimPlanejada": "2025-02-22 18:54",
+      "QtdePlanejada": 214
+    },
+    {
+      "OP_ID": "OP2025-198",
+      "Modelo": "Social Derby",
+      "Tamanho": 44,
+      "Maquina": "Solado_01",
+      "DataInicioPlanejada": "2025-02-22 08:53",
+      "DataFimPlanejada": "2025-02-22 12:53",
+      "QtdePlanejada": 212
+    },
+    {
+      "OP_ID": "OP2025-199",
+      "Modelo": "Social Verniz",
+      "Tamanho": 44,
+      "Maquina": "Acabamento_01",
+      "DataInicioPlanejada": "2025-02-22 14:21",
+      "DataFimPlanejada": "2025-02-22 19:21",
+      "QtdePlanejada": 175
+    },
+    {
+      "OP_ID": "OP2025-200",
+      "Modelo": "Social Derby",
+      "Tamanho": 40,
+      "Maquina": "Acabamento_01",
+      "DataInicioPlanejada": "2025-02-23 08:54",
+      "DataFimPlanejada": "2025-02-23 12:54",
+      "QtdePlanejada": 209
+    }
+  ]
+}
