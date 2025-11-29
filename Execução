@@ -1,0 +1,1804 @@
+{
+  "execucao": [
+    {
+      "OP_ID": "OP2025-001",
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioReal": "2025-02-03 13:46",
+      "DataFimReal": "2025-02-03 16:46",
+      "QtdeProduzida": 178,
+      "QtdeBoa": 176,
+      "Paradas_h": 0.26
+    },
+    {
+      "OP_ID": "OP2025-002",
+      "Maquina": "Solado_01",
+      "DataInicioReal": "2025-02-03 06:55",
+      "DataFimReal": "2025-02-03 11:37",
+      "QtdeProduzida": 214,
+      "QtdeBoa": 210,
+      "Paradas_h": 0.65
+    },
+    {
+      "OP_ID": "OP2025-003",
+      "Maquina": "Acabamento_01",
+      "DataInicioReal": "2025-02-03 13:56",
+      "DataFimReal": "2025-02-03 16:55",
+      "QtdeProduzida": 199,
+      "QtdeBoa": 195,
+      "Paradas_h": 1.2
+    },
+    {
+      "OP_ID": "OP2025-004",
+      "Maquina": "Solado_01",
+      "DataInicioReal": "2025-02-03 08:42",
+      "DataFimReal": "2025-02-03 13:20",
+      "QtdeProduzida": 239,
+      "QtdeBoa": 239,
+      "Paradas_h": 0.35
+    },
+    {
+      "OP_ID": "OP2025-005",
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioReal": "2025-02-03 13:37",
+      "DataFimReal": "2025-02-03 17:41",
+      "QtdeProduzida": 194,
+      "QtdeBoa": 194,
+      "Paradas_h": 0.88
+    },
+    {
+      "OP_ID": "OP2025-006",
+      "Maquina": "Colagem_01",
+      "DataInicioReal": "2025-02-03 08:14",
+      "DataFimReal": "2025-02-03 12:19",
+      "QtdeProduzida": 240,
+      "QtdeBoa": 240,
+      "Paradas_h": 0.66
+    },
+    {
+      "OP_ID": "OP2025-007",
+      "Maquina": "Acabamento_01",
+      "DataInicioReal": "2025-02-03 13:08",
+      "DataFimReal": "2025-02-03 17:58",
+      "QtdeProduzida": 214,
+      "QtdeBoa": 214,
+      "Paradas_h": 1.94
+    },
+    {
+      "OP_ID": "OP2025-008",
+      "Maquina": "Solado_01",
+      "DataInicioReal": "2025-02-03 08:01",
+      "DataFimReal": "2025-02-03 12:39",
+      "QtdeProduzida": 222,
+      "QtdeBoa": 221,
+      "Paradas_h": 0.78
+    },
+    {
+      "OP_ID": "OP2025-009",
+      "Maquina": "Colagem_01",
+      "DataInicioReal": "2025-02-03 14:34",
+      "DataFimReal": "2025-02-03 19:57",
+      "QtdeProduzida": 222,
+      "QtdeBoa": 221,
+      "Paradas_h": 0.96
+    },
+    {
+      "OP_ID": "OP2025-010",
+      "Maquina": "Solado_01",
+      "DataInicioReal": "2025-02-04 08:20",
+      "DataFimReal": "2025-02-04 12:51",
+      "QtdeProduzida": 203,
+      "QtdeBoa": 202,
+      "Paradas_h": 0.4
+    },
+    {
+      "OP_ID": "OP2025-011",
+      "Maquina": "Colagem_01",
+      "DataInicioReal": "2025-02-04 13:55",
+      "DataFimReal": "2025-02-04 18:34",
+      "QtdeProduzida": 219,
+      "QtdeBoa": 219,
+      "Paradas_h": 1.96
+    },
+    {
+      "OP_ID": "OP2025-012",
+      "Maquina": "Colagem_01",
+      "DataInicioReal": "2025-02-04 08:39",
+      "DataFimReal": "2025-02-04 14:19",
+      "QtdeProduzida": 246,
+      "QtdeBoa": 243,
+      "Paradas_h": 0.88
+    },
+    {
+      "OP_ID": "OP2025-013",
+      "Maquina": "Acabamento_01",
+      "DataInicioReal": "2025-02-04 14:28",
+      "DataFimReal": "2025-02-04 16:49",
+      "QtdeProduzida": 187,
+      "QtdeBoa": 184,
+      "Paradas_h": 0.87
+    },
+    {
+      "OP_ID": "OP2025-014",
+      "Maquina": "Colagem_01",
+      "DataInicioReal": "2025-02-04 07:20",
+      "DataFimReal": "2025-02-04 10:13",
+      "QtdeProduzida": 185,
+      "QtdeBoa": 182,
+      "Paradas_h": 0.31
+    },
+    {
+      "OP_ID": "OP2025-015",
+      "Maquina": "Solado_01",
+      "DataInicioReal": "2025-02-04 13:23",
+      "DataFimReal": "2025-02-04 17:41",
+      "QtdeProduzida": 183,
+      "QtdeBoa": 181,
+      "Paradas_h": 1.23
+    },
+    {
+      "OP_ID": "OP2025-016",
+      "Maquina": "Solado_01",
+      "DataInicioReal": "2025-02-04 07:00",
+      "DataFimReal": "2025-02-04 11:06",
+      "QtdeProduzida": 158,
+      "QtdeBoa": 154,
+      "Paradas_h": 0.54
+    },
+    {
+      "OP_ID": "OP2025-017",
+      "Maquina": "Colagem_01",
+      "DataInicioReal": "2025-02-04 14:10",
+      "DataFimReal": "2025-02-04 17:20",
+      "QtdeProduzida": 247,
+      "QtdeBoa": 242,
+      "Paradas_h": 1.17
+    },
+    {
+      "OP_ID": "OP2025-018",
+      "Maquina": "Acabamento_01",
+      "DataInicioReal": "2025-02-04 08:45",
+      "DataFimReal": "2025-02-04 14:18",
+      "QtdeProduzida": 165,
+      "QtdeBoa": 160,
+      "Paradas_h": 1.51
+    },
+    {
+      "OP_ID": "OP2025-019",
+      "Maquina": "Solado_01",
+      "DataInicioReal": "2025-02-04 15:05",
+      "DataFimReal": "2025-02-04 19:49",
+      "QtdeProduzida": 160,
+      "QtdeBoa": 159,
+      "Paradas_h": 1.81
+    },
+    {
+      "OP_ID": "OP2025-020",
+      "Maquina": "Solado_01",
+      "DataInicioReal": "2025-02-05 07:10",
+      "DataFimReal": "2025-02-05 11:50",
+      "QtdeProduzida": 212,
+      "QtdeBoa": 209,
+      "Paradas_h": 1.83
+    },
+    {
+      "OP_ID": "OP2025-021",
+      "Maquina": "Acabamento_01",
+      "DataInicioReal": "2025-02-05 14:17",
+      "DataFimReal": "2025-02-05 18:22",
+      "QtdeProduzida": 150,
+      "QtdeBoa": 148,
+      "Paradas_h": 1.63
+    },
+    {
+      "OP_ID": "OP2025-022",
+      "Maquina": "Acabamento_01",
+      "DataInicioReal": "2025-02-05 09:02",
+      "DataFimReal": "2025-02-05 14:23",
+      "QtdeProduzida": 212,
+      "QtdeBoa": 209,
+      "Paradas_h": 1.17
+    },
+    {
+      "OP_ID": "OP2025-023",
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioReal": "2025-02-05 14:19",
+      "DataFimReal": "2025-02-05 17:39",
+      "QtdeProduzida": 171,
+      "QtdeBoa": 168,
+      "Paradas_h": 0.5
+    },
+    {
+      "OP_ID": "OP2025-024",
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioReal": "2025-02-05 08:57",
+      "DataFimReal": "2025-02-05 12:47",
+      "QtdeProduzida": 168,
+      "QtdeBoa": 166,
+      "Paradas_h": 1.28
+    },
+    {
+      "OP_ID": "OP2025-025",
+      "Maquina": "Colagem_01",
+      "DataInicioReal": "2025-02-05 13:48",
+      "DataFimReal": "2025-02-05 17:47",
+      "QtdeProduzida": 188,
+      "QtdeBoa": 187,
+      "Paradas_h": 0.56
+    },
+    {
+      "OP_ID": "OP2025-026",
+      "Maquina": "Solado_01",
+      "DataInicioReal": "2025-02-05 07:07",
+      "DataFimReal": "2025-02-05 12:45",
+      "QtdeProduzida": 155,
+      "QtdeBoa": 153,
+      "Paradas_h": 0.43
+    },
+    {
+      "OP_ID": "OP2025-027",
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioReal": "2025-02-05 14:04",
+      "DataFimReal": "2025-02-05 17:51",
+      "QtdeProduzida": 194,
+      "QtdeBoa": 194,
+      "Paradas_h": 0.29
+    },
+    {
+      "OP_ID": "OP2025-028",
+      "Maquina": "Solado_01",
+      "DataInicioReal": "2025-02-05 08:13",
+      "DataFimReal": "2025-02-05 13:52",
+      "QtdeProduzida": 250,
+      "QtdeBoa": 247,
+      "Paradas_h": 1.87
+    },
+    {
+      "OP_ID": "OP2025-029",
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioReal": "2025-02-05 14:49",
+      "DataFimReal": "2025-02-05 18:57",
+      "QtdeProduzida": 169,
+      "QtdeBoa": 168,
+      "Paradas_h": 1.93
+    },
+    {
+      "OP_ID": "OP2025-030",
+      "Maquina": "Acabamento_01",
+      "DataInicioReal": "2025-02-06 08:35",
+      "DataFimReal": "2025-02-06 11:42",
+      "QtdeProduzida": 189,
+      "QtdeBoa": 184,
+      "Paradas_h": 0.49
+    },
+    {
+      "OP_ID": "OP2025-031",
+      "Maquina": "Solado_01",
+      "DataInicioReal": "2025-02-06 14:32",
+      "DataFimReal": "2025-02-06 19:27",
+      "QtdeProduzida": 245,
+      "QtdeBoa": 242,
+      "Paradas_h": 1.18
+    },
+    {
+      "OP_ID": "OP2025-032",
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioReal": "2025-02-06 07:29",
+      "DataFimReal": "2025-02-06 13:52",
+      "QtdeProduzida": 198,
+      "QtdeBoa": 197,
+      "Paradas_h": 1.86
+    },
+    {
+      "OP_ID": "OP2025-033",
+      "Maquina": "Acabamento_01",
+      "DataInicioReal": "2025-02-06 12:57",
+      "DataFimReal": "2025-02-06 16:44",
+      "QtdeProduzida": 167,
+      "QtdeBoa": 166,
+      "Paradas_h": 0.79
+    },
+    {
+      "OP_ID": "OP2025-034",
+      "Maquina": "Solado_01",
+      "DataInicioReal": "2025-02-06 07:42",
+      "DataFimReal": "2025-02-06 12:42",
+      "QtdeProduzida": 164,
+      "QtdeBoa": 160,
+      "Paradas_h": 1.14
+    },
+    {
+      "OP_ID": "OP2025-035",
+      "Maquina": "Solado_01",
+      "DataInicioReal": "2025-02-06 13:29",
+      "DataFimReal": "2025-02-06 17:45",
+      "QtdeProduzida": 224,
+      "QtdeBoa": 219,
+      "Paradas_h": 0.1
+    },
+    {
+      "OP_ID": "OP2025-036",
+      "Maquina": "Acabamento_01",
+      "DataInicioReal": "2025-02-06 07:24",
+      "DataFimReal": "2025-02-06 12:32",
+      "QtdeProduzida": 152,
+      "QtdeBoa": 147,
+      "Paradas_h": 0.57
+    },
+    {
+      "OP_ID": "OP2025-037",
+      "Maquina": "Acabamento_01",
+      "DataInicioReal": "2025-02-06 15:09",
+      "DataFimReal": "2025-02-06 20:08",
+      "QtdeProduzida": 180,
+      "QtdeBoa": 178,
+      "Paradas_h": 0.52
+    },
+    {
+      "OP_ID": "OP2025-038",
+      "Maquina": "Acabamento_01",
+      "DataInicioReal": "2025-02-06 08:56",
+      "DataFimReal": "2025-02-06 13:40",
+      "QtdeProduzida": 227,
+      "QtdeBoa": 225,
+      "Paradas_h": 0.43
+    },
+    {
+      "OP_ID": "OP2025-039",
+      "Maquina": "Colagem_01",
+      "DataInicioReal": "2025-02-06 13:25",
+      "DataFimReal": "2025-02-06 17:36",
+      "QtdeProduzida": 259,
+      "QtdeBoa": 257,
+      "Paradas_h": 1.65
+    },
+    {
+      "OP_ID": "OP2025-040",
+      "Maquina": "Colagem_01",
+      "DataInicioReal": "2025-02-07 08:17",
+      "DataFimReal": "2025-02-07 12:12",
+      "QtdeProduzida": 170,
+      "QtdeBoa": 168,
+      "Paradas_h": 0.96
+    },
+    {
+      "OP_ID": "OP2025-041",
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioReal": "2025-02-07 14:55",
+      "DataFimReal": "2025-02-07 19:19",
+      "QtdeProduzida": 171,
+      "QtdeBoa": 169,
+      "Paradas_h": 0.77
+    },
+    {
+      "OP_ID": "OP2025-042",
+      "Maquina": "Acabamento_01",
+      "DataInicioReal": "2025-02-07 08:49",
+      "DataFimReal": "2025-02-07 12:05",
+      "QtdeProduzida": 181,
+      "QtdeBoa": 178,
+      "Paradas_h": 0.66
+    },
+    {
+      "OP_ID": "OP2025-043",
+      "Maquina": "Acabamento_01",
+      "DataInicioReal": "2025-02-07 14:48",
+      "DataFimReal": "2025-02-07 18:21",
+      "QtdeProduzida": 171,
+      "QtdeBoa": 166,
+      "Paradas_h": 1.76
+    },
+    {
+      "OP_ID": "OP2025-044",
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioReal": "2025-02-07 07:55",
+      "DataFimReal": "2025-02-07 12:56",
+      "QtdeProduzida": 184,
+      "QtdeBoa": 181,
+      "Paradas_h": 1.73
+    },
+    {
+      "OP_ID": "OP2025-045",
+      "Maquina": "Acabamento_01",
+      "DataInicioReal": "2025-02-07 14:58",
+      "DataFimReal": "2025-02-07 18:28",
+      "QtdeProduzida": 177,
+      "QtdeBoa": 172,
+      "Paradas_h": 0.31
+    },
+    {
+      "OP_ID": "OP2025-046",
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioReal": "2025-02-07 08:17",
+      "DataFimReal": "2025-02-07 10:29",
+      "QtdeProduzida": 242,
+      "QtdeBoa": 240,
+      "Paradas_h": 1.23
+    },
+    {
+      "OP_ID": "OP2025-047",
+      "Maquina": "Acabamento_01",
+      "DataInicioReal": "2025-02-07 13:15",
+      "DataFimReal": "2025-02-07 17:41",
+      "QtdeProduzida": 262,
+      "QtdeBoa": 259,
+      "Paradas_h": 0.53
+    },
+    {
+      "OP_ID": "OP2025-048",
+      "Maquina": "Solado_01",
+      "DataInicioReal": "2025-02-07 07:18",
+      "DataFimReal": "2025-02-07 12:09",
+      "QtdeProduzida": 240,
+      "QtdeBoa": 235,
+      "Paradas_h": 0.64
+    },
+    {
+      "OP_ID": "OP2025-049",
+      "Maquina": "Acabamento_01",
+      "DataInicioReal": "2025-02-07 14:51",
+      "DataFimReal": "2025-02-07 19:35",
+      "QtdeProduzida": 226,
+      "QtdeBoa": 226,
+      "Paradas_h": 1.64
+    },
+    {
+      "OP_ID": "OP2025-050",
+      "Maquina": "Colagem_01",
+      "DataInicioReal": "2025-02-08 07:37",
+      "DataFimReal": "2025-02-08 10:38",
+      "QtdeProduzida": 217,
+      "QtdeBoa": 216,
+      "Paradas_h": 0.42
+    },
+    {
+      "OP_ID": "OP2025-051",
+      "Maquina": "Solado_01",
+      "DataInicioReal": "2025-02-08 13:24",
+      "DataFimReal": "2025-02-08 15:43",
+      "QtdeProduzida": 254,
+      "QtdeBoa": 254,
+      "Paradas_h": 0.99
+    },
+    {
+      "OP_ID": "OP2025-052",
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioReal": "2025-02-08 08:58",
+      "DataFimReal": "2025-02-08 14:25",
+      "QtdeProduzida": 188,
+      "QtdeBoa": 185,
+      "Paradas_h": 0.2
+    },
+    {
+      "OP_ID": "OP2025-053",
+      "Maquina": "Acabamento_01",
+      "DataInicioReal": "2025-02-08 14:22",
+      "DataFimReal": "2025-02-08 19:13",
+      "QtdeProduzida": 194,
+      "QtdeBoa": 193,
+      "Paradas_h": 1.74
+    },
+    {
+      "OP_ID": "OP2025-054",
+      "Maquina": "Acabamento_01",
+      "DataInicioReal": "2025-02-08 07:59",
+      "DataFimReal": "2025-02-08 12:31",
+      "QtdeProduzida": 228,
+      "QtdeBoa": 228,
+      "Paradas_h": 0.67
+    },
+    {
+      "OP_ID": "OP2025-055",
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioReal": "2025-02-08 13:35",
+      "DataFimReal": "2025-02-08 17:20",
+      "QtdeProduzida": 186,
+      "QtdeBoa": 181,
+      "Paradas_h": 1.52
+    },
+    {
+      "OP_ID": "OP2025-056",
+      "Maquina": "Colagem_01",
+      "DataInicioReal": "2025-02-08 07:57",
+      "DataFimReal": "2025-02-08 12:18",
+      "QtdeProduzida": 220,
+      "QtdeBoa": 220,
+      "Paradas_h": 0.86
+    },
+    {
+      "OP_ID": "OP2025-057",
+      "Maquina": "Colagem_01",
+      "DataInicioReal": "2025-02-08 15:04",
+      "DataFimReal": "2025-02-08 18:12",
+      "QtdeProduzida": 167,
+      "QtdeBoa": 167,
+      "Paradas_h": 1.08
+    },
+    {
+      "OP_ID": "OP2025-058",
+      "Maquina": "Acabamento_01",
+      "DataInicioReal": "2025-02-08 07:19",
+      "DataFimReal": "2025-02-08 10:00",
+      "QtdeProduzida": 201,
+      "QtdeBoa": 198,
+      "Paradas_h": 0.9
+    },
+    {
+      "OP_ID": "OP2025-059",
+      "Maquina": "Acabamento_01",
+      "DataInicioReal": "2025-02-08 15:05",
+      "DataFimReal": "2025-02-08 17:56",
+      "QtdeProduzida": 224,
+      "QtdeBoa": 222,
+      "Paradas_h": 1.0
+    },
+    {
+      "OP_ID": "OP2025-060",
+      "Maquina": "Colagem_01",
+      "DataInicioReal": "2025-02-09 07:31",
+      "DataFimReal": "2025-02-09 11:36",
+      "QtdeProduzida": 243,
+      "QtdeBoa": 239,
+      "Paradas_h": 1.97
+    },
+    {
+      "OP_ID": "OP2025-061",
+      "Maquina": "Solado_01",
+      "DataInicioReal": "2025-02-09 13:42",
+      "DataFimReal": "2025-02-09 19:03",
+      "QtdeProduzida": 188,
+      "QtdeBoa": 187,
+      "Paradas_h": 1.32
+    },
+    {
+      "OP_ID": "OP2025-062",
+      "Maquina": "Acabamento_01",
+      "DataInicioReal": "2025-02-09 07:28",
+      "DataFimReal": "2025-02-09 10:16",
+      "QtdeProduzida": 172,
+      "QtdeBoa": 170,
+      "Paradas_h": 1.49
+    },
+    {
+      "OP_ID": "OP2025-063",
+      "Maquina": "Colagem_01",
+      "DataInicioReal": "2025-02-09 13:25",
+      "DataFimReal": "2025-02-09 15:45",
+      "QtdeProduzida": 200,
+      "QtdeBoa": 195,
+      "Paradas_h": 0.11
+    },
+    {
+      "OP_ID": "OP2025-064",
+      "Maquina": "Colagem_01",
+      "DataInicioReal": "2025-02-09 09:06",
+      "DataFimReal": "2025-02-09 12:48",
+      "QtdeProduzida": 161,
+      "QtdeBoa": 157,
+      "Paradas_h": 0.45
+    },
+    {
+      "OP_ID": "OP2025-065",
+      "Maquina": "Acabamento_01",
+      "DataInicioReal": "2025-02-09 14:38",
+      "DataFimReal": "2025-02-09 19:01",
+      "QtdeProduzida": 182,
+      "QtdeBoa": 181,
+      "Paradas_h": 1.57
+    },
+    {
+      "OP_ID": "OP2025-066",
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioReal": "2025-02-09 07:04",
+      "DataFimReal": "2025-02-09 13:33",
+      "QtdeProduzida": 178,
+      "QtdeBoa": 173,
+      "Paradas_h": 0.07
+    },
+    {
+      "OP_ID": "OP2025-067",
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioReal": "2025-02-09 13:19",
+      "DataFimReal": "2025-02-09 16:44",
+      "QtdeProduzida": 227,
+      "QtdeBoa": 225,
+      "Paradas_h": 0.6
+    },
+    {
+      "OP_ID": "OP2025-068",
+      "Maquina": "Colagem_01",
+      "DataInicioReal": "2025-02-09 07:34",
+      "DataFimReal": "2025-02-09 13:59",
+      "QtdeProduzida": 166,
+      "QtdeBoa": 164,
+      "Paradas_h": 2.0
+    },
+    {
+      "OP_ID": "OP2025-069",
+      "Maquina": "Acabamento_01",
+      "DataInicioReal": "2025-02-09 14:24",
+      "DataFimReal": "2025-02-09 18:47",
+      "QtdeProduzida": 159,
+      "QtdeBoa": 159,
+      "Paradas_h": 0.22
+    },
+    {
+      "OP_ID": "OP2025-070",
+      "Maquina": "Acabamento_01",
+      "DataInicioReal": "2025-02-10 09:13",
+      "DataFimReal": "2025-02-10 12:10",
+      "QtdeProduzida": 189,
+      "QtdeBoa": 184,
+      "Paradas_h": 1.49
+    },
+    {
+      "OP_ID": "OP2025-071",
+      "Maquina": "Acabamento_01",
+      "DataInicioReal": "2025-02-10 14:14",
+      "DataFimReal": "2025-02-10 17:45",
+      "QtdeProduzida": 186,
+      "QtdeBoa": 182,
+      "Paradas_h": 1.95
+    },
+    {
+      "OP_ID": "OP2025-072",
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioReal": "2025-02-10 07:18",
+      "DataFimReal": "2025-02-10 10:11",
+      "QtdeProduzida": 180,
+      "QtdeBoa": 179,
+      "Paradas_h": 0.65
+    },
+    {
+      "OP_ID": "OP2025-073",
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioReal": "2025-02-10 14:02",
+      "DataFimReal": "2025-02-10 17:01",
+      "QtdeProduzida": 204,
+      "QtdeBoa": 203,
+      "Paradas_h": 1.6
+    },
+    {
+      "OP_ID": "OP2025-074",
+      "Maquina": "Colagem_01",
+      "DataInicioReal": "2025-02-10 07:19",
+      "DataFimReal": "2025-02-10 11:04",
+      "QtdeProduzida": 153,
+      "QtdeBoa": 152,
+      "Paradas_h": 1.26
+    },
+    {
+      "OP_ID": "OP2025-075",
+      "Maquina": "Colagem_01",
+      "DataInicioReal": "2025-02-10 13:23",
+      "DataFimReal": "2025-02-10 18:09",
+      "QtdeProduzida": 225,
+      "QtdeBoa": 225,
+      "Paradas_h": 1.66
+    },
+    {
+      "OP_ID": "OP2025-076",
+      "Maquina": "Colagem_01",
+      "DataInicioReal": "2025-02-10 07:09",
+      "DataFimReal": "2025-02-10 12:19",
+      "QtdeProduzida": 223,
+      "QtdeBoa": 223,
+      "Paradas_h": 1.03
+    },
+    {
+      "OP_ID": "OP2025-077",
+      "Maquina": "Solado_01",
+      "DataInicioReal": "2025-02-10 14:26",
+      "DataFimReal": "2025-02-10 19:31",
+      "QtdeProduzida": 169,
+      "QtdeBoa": 167,
+      "Paradas_h": 1.55
+    },
+    {
+      "OP_ID": "OP2025-078",
+      "Maquina": "Solado_01",
+      "DataInicioReal": "2025-02-10 07:16",
+      "DataFimReal": "2025-02-10 12:38",
+      "QtdeProduzida": 196,
+      "QtdeBoa": 193,
+      "Paradas_h": 0.76
+    },
+    {
+      "OP_ID": "OP2025-079",
+      "Maquina": "Solado_01",
+      "DataInicioReal": "2025-02-10 14:39",
+      "DataFimReal": "2025-02-10 19:16",
+      "QtdeProduzida": 245,
+      "QtdeBoa": 244,
+      "Paradas_h": 0.91
+    },
+    {
+      "OP_ID": "OP2025-080",
+      "Maquina": "Solado_01",
+      "DataInicioReal": "2025-02-11 07:06",
+      "DataFimReal": "2025-02-11 10:45",
+      "QtdeProduzida": 185,
+      "QtdeBoa": 185,
+      "Paradas_h": 0.89
+    },
+    {
+      "OP_ID": "OP2025-081",
+      "Maquina": "Acabamento_01",
+      "DataInicioReal": "2025-02-11 13:25",
+      "DataFimReal": "2025-02-11 17:04",
+      "QtdeProduzida": 179,
+      "QtdeBoa": 177,
+      "Paradas_h": 0.17
+    },
+    {
+      "OP_ID": "OP2025-082",
+      "Maquina": "Acabamento_01",
+      "DataInicioReal": "2025-02-11 08:48",
+      "DataFimReal": "2025-02-11 12:31",
+      "QtdeProduzida": 178,
+      "QtdeBoa": 175,
+      "Paradas_h": 1.71
+    },
+    {
+      "OP_ID": "OP2025-083",
+      "Maquina": "Colagem_01",
+      "DataInicioReal": "2025-02-11 15:07",
+      "DataFimReal": "2025-02-11 18:54",
+      "QtdeProduzida": 203,
+      "QtdeBoa": 203,
+      "Paradas_h": 1.44
+    },
+    {
+      "OP_ID": "OP2025-084",
+      "Maquina": "Acabamento_01",
+      "DataInicioReal": "2025-02-11 06:53",
+      "DataFimReal": "2025-02-11 12:53",
+      "QtdeProduzida": 157,
+      "QtdeBoa": 153,
+      "Paradas_h": 0.38
+    },
+    {
+      "OP_ID": "OP2025-085",
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioReal": "2025-02-11 13:33",
+      "DataFimReal": "2025-02-11 17:14",
+      "QtdeProduzida": 255,
+      "QtdeBoa": 254,
+      "Paradas_h": 1.42
+    },
+    {
+      "OP_ID": "OP2025-086",
+      "Maquina": "Solado_01",
+      "DataInicioReal": "2025-02-11 08:12",
+      "DataFimReal": "2025-02-11 12:56",
+      "QtdeProduzida": 194,
+      "QtdeBoa": 193,
+      "Paradas_h": 1.75
+    },
+    {
+      "OP_ID": "OP2025-087",
+      "Maquina": "Acabamento_01",
+      "DataInicioReal": "2025-02-11 13:08",
+      "DataFimReal": "2025-02-11 18:15",
+      "QtdeProduzida": 185,
+      "QtdeBoa": 181,
+      "Paradas_h": 1.29
+    },
+    {
+      "OP_ID": "OP2025-088",
+      "Maquina": "Colagem_01",
+      "DataInicioReal": "2025-02-11 07:49",
+      "DataFimReal": "2025-02-11 12:48",
+      "QtdeProduzida": 164,
+      "QtdeBoa": 162,
+      "Paradas_h": 1.7
+    },
+    {
+      "OP_ID": "OP2025-089",
+      "Maquina": "Solado_01",
+      "DataInicioReal": "2025-02-11 13:55",
+      "DataFimReal": "2025-02-11 16:26",
+      "QtdeProduzida": 216,
+      "QtdeBoa": 211,
+      "Paradas_h": 1.78
+    },
+    {
+      "OP_ID": "OP2025-090",
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioReal": "2025-02-12 08:33",
+      "DataFimReal": "2025-02-12 12:31",
+      "QtdeProduzida": 251,
+      "QtdeBoa": 250,
+      "Paradas_h": 1.85
+    },
+    {
+      "OP_ID": "OP2025-091",
+      "Maquina": "Solado_01",
+      "DataInicioReal": "2025-02-12 13:24",
+      "DataFimReal": "2025-02-12 16:30",
+      "QtdeProduzida": 210,
+      "QtdeBoa": 206,
+      "Paradas_h": 0.91
+    },
+    {
+      "OP_ID": "OP2025-092",
+      "Maquina": "Acabamento_01",
+      "DataInicioReal": "2025-02-12 08:32",
+      "DataFimReal": "2025-02-12 13:45",
+      "QtdeProduzida": 190,
+      "QtdeBoa": 185,
+      "Paradas_h": 1.44
+    },
+    {
+      "OP_ID": "OP2025-093",
+      "Maquina": "Solado_01",
+      "DataInicioReal": "2025-02-12 13:15",
+      "DataFimReal": "2025-02-12 19:01",
+      "QtdeProduzida": 169,
+      "QtdeBoa": 166,
+      "Paradas_h": 1.48
+    },
+    {
+      "OP_ID": "OP2025-094",
+      "Maquina": "Acabamento_01",
+      "DataInicioReal": "2025-02-12 08:44",
+      "DataFimReal": "2025-02-12 13:14",
+      "QtdeProduzida": 149,
+      "QtdeBoa": 149,
+      "Paradas_h": 0.6
+    },
+    {
+      "OP_ID": "OP2025-095",
+      "Maquina": "Acabamento_01",
+      "DataInicioReal": "2025-02-12 14:23",
+      "DataFimReal": "2025-02-12 20:39",
+      "QtdeProduzida": 188,
+      "QtdeBoa": 188,
+      "Paradas_h": 1.97
+    },
+    {
+      "OP_ID": "OP2025-096",
+      "Maquina": "Acabamento_01",
+      "DataInicioReal": "2025-02-12 08:03",
+      "DataFimReal": "2025-02-12 13:27",
+      "QtdeProduzida": 190,
+      "QtdeBoa": 186,
+      "Paradas_h": 0.15
+    },
+    {
+      "OP_ID": "OP2025-097",
+      "Maquina": "Solado_01",
+      "DataInicioReal": "2025-02-12 14:35",
+      "DataFimReal": "2025-02-12 18:28",
+      "QtdeProduzida": 176,
+      "QtdeBoa": 175,
+      "Paradas_h": 0.24
+    },
+    {
+      "OP_ID": "OP2025-098",
+      "Maquina": "Solado_01",
+      "DataInicioReal": "2025-02-12 08:12",
+      "DataFimReal": "2025-02-12 11:30",
+      "QtdeProduzida": 167,
+      "QtdeBoa": 164,
+      "Paradas_h": 1.49
+    },
+    {
+      "OP_ID": "OP2025-099",
+      "Maquina": "Colagem_01",
+      "DataInicioReal": "2025-02-12 13:15",
+      "DataFimReal": "2025-02-12 18:48",
+      "QtdeProduzida": 195,
+      "QtdeBoa": 194,
+      "Paradas_h": 1.52
+    },
+    {
+      "OP_ID": "OP2025-100",
+      "Maquina": "Solado_01",
+      "DataInicioReal": "2025-02-13 09:16",
+      "DataFimReal": "2025-02-13 13:12",
+      "QtdeProduzida": 214,
+      "QtdeBoa": 209,
+      "Paradas_h": 0.62
+    },
+    {
+      "OP_ID": "OP2025-101",
+      "Maquina": "Solado_01",
+      "DataInicioReal": "2025-02-13 14:11",
+      "DataFimReal": "2025-02-13 19:31",
+      "QtdeProduzida": 210,
+      "QtdeBoa": 210,
+      "Paradas_h": 1.91
+    },
+    {
+      "OP_ID": "OP2025-102",
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioReal": "2025-02-13 08:40",
+      "DataFimReal": "2025-02-13 11:36",
+      "QtdeProduzida": 198,
+      "QtdeBoa": 194,
+      "Paradas_h": 0.75
+    },
+    {
+      "OP_ID": "OP2025-103",
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioReal": "2025-02-13 14:34",
+      "DataFimReal": "2025-02-13 17:55",
+      "QtdeProduzida": 258,
+      "QtdeBoa": 254,
+      "Paradas_h": 1.05
+    },
+    {
+      "OP_ID": "OP2025-104",
+      "Maquina": "Colagem_01",
+      "DataInicioReal": "2025-02-13 08:01",
+      "DataFimReal": "2025-02-13 11:43",
+      "QtdeProduzida": 170,
+      "QtdeBoa": 165,
+      "Paradas_h": 0.08
+    },
+    {
+      "OP_ID": "OP2025-105",
+      "Maquina": "Acabamento_01",
+      "DataInicioReal": "2025-02-13 13:45",
+      "DataFimReal": "2025-02-13 17:49",
+      "QtdeProduzida": 181,
+      "QtdeBoa": 177,
+      "Paradas_h": 1.57
+    },
+    {
+      "OP_ID": "OP2025-106",
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioReal": "2025-02-13 08:07",
+      "DataFimReal": "2025-02-13 11:46",
+      "QtdeProduzida": 219,
+      "QtdeBoa": 219,
+      "Paradas_h": 0.45
+    },
+    {
+      "OP_ID": "OP2025-107",
+      "Maquina": "Colagem_01",
+      "DataInicioReal": "2025-02-13 14:40",
+      "DataFimReal": "2025-02-13 20:21",
+      "QtdeProduzida": 216,
+      "QtdeBoa": 216,
+      "Paradas_h": 0.76
+    },
+    {
+      "OP_ID": "OP2025-108",
+      "Maquina": "Colagem_01",
+      "DataInicioReal": "2025-02-13 08:50",
+      "DataFimReal": "2025-02-13 14:05",
+      "QtdeProduzida": 242,
+      "QtdeBoa": 238,
+      "Paradas_h": 0.86
+    },
+    {
+      "OP_ID": "OP2025-109",
+      "Maquina": "Colagem_01",
+      "DataInicioReal": "2025-02-13 14:23",
+      "DataFimReal": "2025-02-13 17:56",
+      "QtdeProduzida": 217,
+      "QtdeBoa": 213,
+      "Paradas_h": 1.26
+    },
+    {
+      "OP_ID": "OP2025-110",
+      "Maquina": "Solado_01",
+      "DataInicioReal": "2025-02-14 07:40",
+      "DataFimReal": "2025-02-14 12:59",
+      "QtdeProduzida": 211,
+      "QtdeBoa": 207,
+      "Paradas_h": 0.58
+    },
+    {
+      "OP_ID": "OP2025-111",
+      "Maquina": "Solado_01",
+      "DataInicioReal": "2025-02-14 13:00",
+      "DataFimReal": "2025-02-14 16:15",
+      "QtdeProduzida": 178,
+      "QtdeBoa": 176,
+      "Paradas_h": 0.92
+    },
+    {
+      "OP_ID": "OP2025-112",
+      "Maquina": "Solado_01",
+      "DataInicioReal": "2025-02-14 08:05",
+      "DataFimReal": "2025-02-14 12:47",
+      "QtdeProduzida": 223,
+      "QtdeBoa": 223,
+      "Paradas_h": 0.84
+    },
+    {
+      "OP_ID": "OP2025-113",
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioReal": "2025-02-14 14:29",
+      "DataFimReal": "2025-02-14 20:36",
+      "QtdeProduzida": 247,
+      "QtdeBoa": 242,
+      "Paradas_h": 1.24
+    },
+    {
+      "OP_ID": "OP2025-114",
+      "Maquina": "Acabamento_01",
+      "DataInicioReal": "2025-02-14 08:39",
+      "DataFimReal": "2025-02-14 12:11",
+      "QtdeProduzida": 172,
+      "QtdeBoa": 170,
+      "Paradas_h": 1.92
+    },
+    {
+      "OP_ID": "OP2025-115",
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioReal": "2025-02-14 13:48",
+      "DataFimReal": "2025-02-14 19:31",
+      "QtdeProduzida": 207,
+      "QtdeBoa": 203,
+      "Paradas_h": 0.05
+    },
+    {
+      "OP_ID": "OP2025-116",
+      "Maquina": "Solado_01",
+      "DataInicioReal": "2025-02-14 08:37",
+      "DataFimReal": "2025-02-14 14:40",
+      "QtdeProduzida": 183,
+      "QtdeBoa": 181,
+      "Paradas_h": 1.46
+    },
+    {
+      "OP_ID": "OP2025-117",
+      "Maquina": "Acabamento_01",
+      "DataInicioReal": "2025-02-14 13:46",
+      "DataFimReal": "2025-02-14 18:41",
+      "QtdeProduzida": 247,
+      "QtdeBoa": 247,
+      "Paradas_h": 0.12
+    },
+    {
+      "OP_ID": "OP2025-118",
+      "Maquina": "Solado_01",
+      "DataInicioReal": "2025-02-14 07:23",
+      "DataFimReal": "2025-02-14 12:44",
+      "QtdeProduzida": 192,
+      "QtdeBoa": 189,
+      "Paradas_h": 0.46
+    },
+    {
+      "OP_ID": "OP2025-119",
+      "Maquina": "Acabamento_01",
+      "DataInicioReal": "2025-02-14 13:19",
+      "DataFimReal": "2025-02-14 17:02",
+      "QtdeProduzida": 183,
+      "QtdeBoa": 178,
+      "Paradas_h": 0.36
+    },
+    {
+      "OP_ID": "OP2025-120",
+      "Maquina": "Colagem_01",
+      "DataInicioReal": "2025-02-15 08:57",
+      "DataFimReal": "2025-02-15 12:14",
+      "QtdeProduzida": 226,
+      "QtdeBoa": 224,
+      "Paradas_h": 0.8
+    },
+    {
+      "OP_ID": "OP2025-121",
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioReal": "2025-02-15 15:08",
+      "DataFimReal": "2025-02-15 20:24",
+      "QtdeProduzida": 195,
+      "QtdeBoa": 193,
+      "Paradas_h": 0.09
+    },
+    {
+      "OP_ID": "OP2025-122",
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioReal": "2025-02-15 07:35",
+      "DataFimReal": "2025-02-15 12:07",
+      "QtdeProduzida": 233,
+      "QtdeBoa": 228,
+      "Paradas_h": 1.43
+    },
+    {
+      "OP_ID": "OP2025-123",
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioReal": "2025-02-15 14:33",
+      "DataFimReal": "2025-02-15 19:17",
+      "QtdeProduzida": 209,
+      "QtdeBoa": 205,
+      "Paradas_h": 1.82
+    },
+    {
+      "OP_ID": "OP2025-124",
+      "Maquina": "Solado_01",
+      "DataInicioReal": "2025-02-15 09:04",
+      "DataFimReal": "2025-02-15 14:17",
+      "QtdeProduzida": 175,
+      "QtdeBoa": 174,
+      "Paradas_h": 1.04
+    },
+    {
+      "OP_ID": "OP2025-125",
+      "Maquina": "Colagem_01",
+      "DataInicioReal": "2025-02-15 14:18",
+      "DataFimReal": "2025-02-15 18:10",
+      "QtdeProduzida": 229,
+      "QtdeBoa": 225,
+      "Paradas_h": 1.04
+    },
+    {
+      "OP_ID": "OP2025-126",
+      "Maquina": "Acabamento_01",
+      "DataInicioReal": "2025-02-15 07:12",
+      "DataFimReal": "2025-02-15 11:37",
+      "QtdeProduzida": 215,
+      "QtdeBoa": 214,
+      "Paradas_h": 0.49
+    },
+    {
+      "OP_ID": "OP2025-127",
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioReal": "2025-02-15 14:20",
+      "DataFimReal": "2025-02-15 20:39",
+      "QtdeProduzida": 208,
+      "QtdeBoa": 206,
+      "Paradas_h": 0.71
+    },
+    {
+      "OP_ID": "OP2025-128",
+      "Maquina": "Solado_01",
+      "DataInicioReal": "2025-02-15 08:56",
+      "DataFimReal": "2025-02-15 13:12",
+      "QtdeProduzida": 183,
+      "QtdeBoa": 180,
+      "Paradas_h": 1.85
+    },
+    {
+      "OP_ID": "OP2025-129",
+      "Maquina": "Acabamento_01",
+      "DataInicioReal": "2025-02-15 13:37",
+      "DataFimReal": "2025-02-15 18:26",
+      "QtdeProduzida": 225,
+      "QtdeBoa": 221,
+      "Paradas_h": 1.21
+    },
+    {
+      "OP_ID": "OP2025-130",
+      "Maquina": "Acabamento_01",
+      "DataInicioReal": "2025-02-16 07:52",
+      "DataFimReal": "2025-02-16 10:47",
+      "QtdeProduzida": 203,
+      "QtdeBoa": 202,
+      "Paradas_h": 1.22
+    },
+    {
+      "OP_ID": "OP2025-131",
+      "Maquina": "Solado_01",
+      "DataInicioReal": "2025-02-16 14:37",
+      "DataFimReal": "2025-02-16 19:56",
+      "QtdeProduzida": 163,
+      "QtdeBoa": 160,
+      "Paradas_h": 0.09
+    },
+    {
+      "OP_ID": "OP2025-132",
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioReal": "2025-02-16 08:11",
+      "DataFimReal": "2025-02-16 14:14",
+      "QtdeProduzida": 187,
+      "QtdeBoa": 187,
+      "Paradas_h": 0.54
+    },
+    {
+      "OP_ID": "OP2025-133",
+      "Maquina": "Acabamento_01",
+      "DataInicioReal": "2025-02-16 14:23",
+      "DataFimReal": "2025-02-16 19:26",
+      "QtdeProduzida": 201,
+      "QtdeBoa": 196,
+      "Paradas_h": 1.17
+    },
+    {
+      "OP_ID": "OP2025-134",
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioReal": "2025-02-16 07:38",
+      "DataFimReal": "2025-02-16 11:51",
+      "QtdeProduzida": 161,
+      "QtdeBoa": 159,
+      "Paradas_h": 0.84
+    },
+    {
+      "OP_ID": "OP2025-135",
+      "Maquina": "Acabamento_01",
+      "DataInicioReal": "2025-02-16 14:10",
+      "DataFimReal": "2025-02-16 18:20",
+      "QtdeProduzida": 159,
+      "QtdeBoa": 158,
+      "Paradas_h": 0.95
+    },
+    {
+      "OP_ID": "OP2025-136",
+      "Maquina": "Acabamento_01",
+      "DataInicioReal": "2025-02-16 08:40",
+      "DataFimReal": "2025-02-16 13:04",
+      "QtdeProduzida": 175,
+      "QtdeBoa": 173,
+      "Paradas_h": 0.39
+    },
+    {
+      "OP_ID": "OP2025-137",
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioReal": "2025-02-16 14:38",
+      "DataFimReal": "2025-02-16 17:39",
+      "QtdeProduzida": 149,
+      "QtdeBoa": 147,
+      "Paradas_h": 1.3
+    },
+    {
+      "OP_ID": "OP2025-138",
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioReal": "2025-02-16 07:10",
+      "DataFimReal": "2025-02-16 09:54",
+      "QtdeProduzida": 260,
+      "QtdeBoa": 257,
+      "Paradas_h": 1.48
+    },
+    {
+      "OP_ID": "OP2025-139",
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioReal": "2025-02-16 14:00",
+      "DataFimReal": "2025-02-16 19:19",
+      "QtdeProduzida": 241,
+      "QtdeBoa": 237,
+      "Paradas_h": 1.79
+    },
+    {
+      "OP_ID": "OP2025-140",
+      "Maquina": "Colagem_01",
+      "DataInicioReal": "2025-02-17 07:12",
+      "DataFimReal": "2025-02-17 09:52",
+      "QtdeProduzida": 177,
+      "QtdeBoa": 177,
+      "Paradas_h": 0.33
+    },
+    {
+      "OP_ID": "OP2025-141",
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioReal": "2025-02-17 14:52",
+      "DataFimReal": "2025-02-17 17:46",
+      "QtdeProduzida": 186,
+      "QtdeBoa": 185,
+      "Paradas_h": 1.42
+    },
+    {
+      "OP_ID": "OP2025-142",
+      "Maquina": "Solado_01",
+      "DataInicioReal": "2025-02-17 07:24",
+      "DataFimReal": "2025-02-17 11:55",
+      "QtdeProduzida": 176,
+      "QtdeBoa": 172,
+      "Paradas_h": 1.52
+    },
+    {
+      "OP_ID": "OP2025-143",
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioReal": "2025-02-17 13:58",
+      "DataFimReal": "2025-02-17 17:45",
+      "QtdeProduzida": 243,
+      "QtdeBoa": 239,
+      "Paradas_h": 0.13
+    },
+    {
+      "OP_ID": "OP2025-144",
+      "Maquina": "Acabamento_01",
+      "DataInicioReal": "2025-02-17 07:06",
+      "DataFimReal": "2025-02-17 12:14",
+      "QtdeProduzida": 191,
+      "QtdeBoa": 188,
+      "Paradas_h": 0.64
+    },
+    {
+      "OP_ID": "OP2025-145",
+      "Maquina": "Colagem_01",
+      "DataInicioReal": "2025-02-17 15:10",
+      "DataFimReal": "2025-02-17 18:49",
+      "QtdeProduzida": 239,
+      "QtdeBoa": 235,
+      "Paradas_h": 0.06
+    },
+    {
+      "OP_ID": "OP2025-146",
+      "Maquina": "Acabamento_01",
+      "DataInicioReal": "2025-02-17 07:40",
+      "DataFimReal": "2025-02-17 11:05",
+      "QtdeProduzida": 237,
+      "QtdeBoa": 232,
+      "Paradas_h": 1.67
+    },
+    {
+      "OP_ID": "OP2025-147",
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioReal": "2025-02-17 14:57",
+      "DataFimReal": "2025-02-17 18:18",
+      "QtdeProduzida": 165,
+      "QtdeBoa": 160,
+      "Paradas_h": 1.73
+    },
+    {
+      "OP_ID": "OP2025-148",
+      "Maquina": "Colagem_01",
+      "DataInicioReal": "2025-02-17 08:33",
+      "DataFimReal": "2025-02-17 14:23",
+      "QtdeProduzida": 173,
+      "QtdeBoa": 173,
+      "Paradas_h": 1.05
+    },
+    {
+      "OP_ID": "OP2025-149",
+      "Maquina": "Colagem_01",
+      "DataInicioReal": "2025-02-17 15:00",
+      "DataFimReal": "2025-02-17 19:22",
+      "QtdeProduzida": 199,
+      "QtdeBoa": 199,
+      "Paradas_h": 0.82
+    },
+    {
+      "OP_ID": "OP2025-150",
+      "Maquina": "Solado_01",
+      "DataInicioReal": "2025-02-18 07:40",
+      "DataFimReal": "2025-02-18 12:44",
+      "QtdeProduzida": 205,
+      "QtdeBoa": 200,
+      "Paradas_h": 0.38
+    },
+    {
+      "OP_ID": "OP2025-151",
+      "Maquina": "Acabamento_01",
+      "DataInicioReal": "2025-02-18 13:25",
+      "DataFimReal": "2025-02-18 19:43",
+      "QtdeProduzida": 217,
+      "QtdeBoa": 213,
+      "Paradas_h": 0.39
+    },
+    {
+      "OP_ID": "OP2025-152",
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioReal": "2025-02-18 07:56",
+      "DataFimReal": "2025-02-18 11:12",
+      "QtdeProduzida": 189,
+      "QtdeBoa": 185,
+      "Paradas_h": 0.11
+    },
+    {
+      "OP_ID": "OP2025-153",
+      "Maquina": "Solado_01",
+      "DataInicioReal": "2025-02-18 14:24",
+      "DataFimReal": "2025-02-18 17:59",
+      "QtdeProduzida": 232,
+      "QtdeBoa": 232,
+      "Paradas_h": 1.32
+    },
+    {
+      "OP_ID": "OP2025-154",
+      "Maquina": "Solado_01",
+      "DataInicioReal": "2025-02-18 08:58",
+      "DataFimReal": "2025-02-18 14:40",
+      "QtdeProduzida": 194,
+      "QtdeBoa": 192,
+      "Paradas_h": 1.1
+    },
+    {
+      "OP_ID": "OP2025-155",
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioReal": "2025-02-18 13:37",
+      "DataFimReal": "2025-02-18 18:23",
+      "QtdeProduzida": 247,
+      "QtdeBoa": 247,
+      "Paradas_h": 0.52
+    },
+    {
+      "OP_ID": "OP2025-156",
+      "Maquina": "Solado_01",
+      "DataInicioReal": "2025-02-18 07:06",
+      "DataFimReal": "2025-02-18 10:46",
+      "QtdeProduzida": 200,
+      "QtdeBoa": 199,
+      "Paradas_h": 0.28
+    },
+    {
+      "OP_ID": "OP2025-157",
+      "Maquina": "Colagem_01",
+      "DataInicioReal": "2025-02-18 14:24",
+      "DataFimReal": "2025-02-18 20:04",
+      "QtdeProduzida": 219,
+      "QtdeBoa": 217,
+      "Paradas_h": 0.7
+    },
+    {
+      "OP_ID": "OP2025-158",
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioReal": "2025-02-18 09:19",
+      "DataFimReal": "2025-02-18 12:38",
+      "QtdeProduzida": 172,
+      "QtdeBoa": 169,
+      "Paradas_h": 0.44
+    },
+    {
+      "OP_ID": "OP2025-159",
+      "Maquina": "Acabamento_01",
+      "DataInicioReal": "2025-02-18 14:30",
+      "DataFimReal": "2025-02-18 18:46",
+      "QtdeProduzida": 236,
+      "QtdeBoa": 233,
+      "Paradas_h": 1.4
+    },
+    {
+      "OP_ID": "OP2025-160",
+      "Maquina": "Colagem_01",
+      "DataInicioReal": "2025-02-19 07:17",
+      "DataFimReal": "2025-02-19 12:52",
+      "QtdeProduzida": 194,
+      "QtdeBoa": 192,
+      "Paradas_h": 0.65
+    },
+    {
+      "OP_ID": "OP2025-161",
+      "Maquina": "Solado_01",
+      "DataInicioReal": "2025-02-19 15:02",
+      "DataFimReal": "2025-02-19 20:44",
+      "QtdeProduzida": 166,
+      "QtdeBoa": 163,
+      "Paradas_h": 1.06
+    },
+    {
+      "OP_ID": "OP2025-162",
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioReal": "2025-02-19 08:18",
+      "DataFimReal": "2025-02-19 13:42",
+      "QtdeProduzida": 230,
+      "QtdeBoa": 228,
+      "Paradas_h": 1.11
+    },
+    {
+      "OP_ID": "OP2025-163",
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioReal": "2025-02-19 14:52",
+      "DataFimReal": "2025-02-19 17:32",
+      "QtdeProduzida": 223,
+      "QtdeBoa": 219,
+      "Paradas_h": 0.72
+    },
+    {
+      "OP_ID": "OP2025-164",
+      "Maquina": "Solado_01",
+      "DataInicioReal": "2025-02-19 08:16",
+      "DataFimReal": "2025-02-19 13:46",
+      "QtdeProduzida": 192,
+      "QtdeBoa": 192,
+      "Paradas_h": 0.26
+    },
+    {
+      "OP_ID": "OP2025-165",
+      "Maquina": "Acabamento_01",
+      "DataInicioReal": "2025-02-19 14:00",
+      "DataFimReal": "2025-02-19 18:53",
+      "QtdeProduzida": 248,
+      "QtdeBoa": 244,
+      "Paradas_h": 1.58
+    },
+    {
+      "OP_ID": "OP2025-166",
+      "Maquina": "Solado_01",
+      "DataInicioReal": "2025-02-19 08:00",
+      "DataFimReal": "2025-02-19 13:12",
+      "QtdeProduzida": 229,
+      "QtdeBoa": 229,
+      "Paradas_h": 1.97
+    },
+    {
+      "OP_ID": "OP2025-167",
+      "Maquina": "Solado_01",
+      "DataInicioReal": "2025-02-19 13:28",
+      "DataFimReal": "2025-02-19 18:22",
+      "QtdeProduzida": 219,
+      "QtdeBoa": 217,
+      "Paradas_h": 0.93
+    },
+    {
+      "OP_ID": "OP2025-168",
+      "Maquina": "Colagem_01",
+      "DataInicioReal": "2025-02-19 08:24",
+      "DataFimReal": "2025-02-19 14:20",
+      "QtdeProduzida": 165,
+      "QtdeBoa": 162,
+      "Paradas_h": 0.69
+    },
+    {
+      "OP_ID": "OP2025-169",
+      "Maquina": "Acabamento_01",
+      "DataInicioReal": "2025-02-19 13:45",
+      "DataFimReal": "2025-02-19 18:14",
+      "QtdeProduzida": 209,
+      "QtdeBoa": 205,
+      "Paradas_h": 0.32
+    },
+    {
+      "OP_ID": "OP2025-170",
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioReal": "2025-02-20 07:27",
+      "DataFimReal": "2025-02-20 13:20",
+      "QtdeProduzida": 242,
+      "QtdeBoa": 242,
+      "Paradas_h": 0.59
+    },
+    {
+      "OP_ID": "OP2025-171",
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioReal": "2025-02-20 14:57",
+      "DataFimReal": "2025-02-20 21:00",
+      "QtdeProduzida": 233,
+      "QtdeBoa": 230,
+      "Paradas_h": 0.5
+    },
+    {
+      "OP_ID": "OP2025-172",
+      "Maquina": "Solado_01",
+      "DataInicioReal": "2025-02-20 07:00",
+      "DataFimReal": "2025-02-20 13:35",
+      "QtdeProduzida": 213,
+      "QtdeBoa": 209,
+      "Paradas_h": 1.72
+    },
+    {
+      "OP_ID": "OP2025-173",
+      "Maquina": "Solado_01",
+      "DataInicioReal": "2025-02-20 13:26",
+      "DataFimReal": "2025-02-20 16:51",
+      "QtdeProduzida": 192,
+      "QtdeBoa": 187,
+      "Paradas_h": 1.54
+    },
+    {
+      "OP_ID": "OP2025-174",
+      "Maquina": "Colagem_01",
+      "DataInicioReal": "2025-02-20 09:00",
+      "DataFimReal": "2025-02-20 14:14",
+      "QtdeProduzida": 206,
+      "QtdeBoa": 206,
+      "Paradas_h": 0.88
+    },
+    {
+      "OP_ID": "OP2025-175",
+      "Maquina": "Colagem_01",
+      "DataInicioReal": "2025-02-20 14:56",
+      "DataFimReal": "2025-02-20 19:52",
+      "QtdeProduzida": 224,
+      "QtdeBoa": 222,
+      "Paradas_h": 1.87
+    },
+    {
+      "OP_ID": "OP2025-176",
+      "Maquina": "Acabamento_01",
+      "DataInicioReal": "2025-02-20 08:47",
+      "DataFimReal": "2025-02-20 12:02",
+      "QtdeProduzida": 245,
+      "QtdeBoa": 242,
+      "Paradas_h": 1.3
+    },
+    {
+      "OP_ID": "OP2025-177",
+      "Maquina": "Acabamento_01",
+      "DataInicioReal": "2025-02-20 14:41",
+      "DataFimReal": "2025-02-20 20:50",
+      "QtdeProduzida": 204,
+      "QtdeBoa": 201,
+      "Paradas_h": 1.54
+    },
+    {
+      "OP_ID": "OP2025-178",
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioReal": "2025-02-20 07:33",
+      "DataFimReal": "2025-02-20 11:48",
+      "QtdeProduzida": 248,
+      "QtdeBoa": 245,
+      "Paradas_h": 1.37
+    },
+    {
+      "OP_ID": "OP2025-179",
+      "Maquina": "Acabamento_01",
+      "DataInicioReal": "2025-02-20 13:16",
+      "DataFimReal": "2025-02-20 17:53",
+      "QtdeProduzida": 242,
+      "QtdeBoa": 239,
+      "Paradas_h": 1.24
+    },
+    {
+      "OP_ID": "OP2025-180",
+      "Maquina": "Colagem_01",
+      "DataInicioReal": "2025-02-21 08:39",
+      "DataFimReal": "2025-02-21 13:04",
+      "QtdeProduzida": 172,
+      "QtdeBoa": 168,
+      "Paradas_h": 1.3
+    },
+    {
+      "OP_ID": "OP2025-181",
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioReal": "2025-02-21 14:24",
+      "DataFimReal": "2025-02-21 19:06",
+      "QtdeProduzida": 163,
+      "QtdeBoa": 162,
+      "Paradas_h": 0.94
+    },
+    {
+      "OP_ID": "OP2025-182",
+      "Maquina": "Solado_01",
+      "DataInicioReal": "2025-02-21 08:08",
+      "DataFimReal": "2025-02-21 13:42",
+      "QtdeProduzida": 182,
+      "QtdeBoa": 182,
+      "Paradas_h": 1.04
+    },
+    {
+      "OP_ID": "OP2025-183",
+      "Maquina": "Colagem_01",
+      "DataInicioReal": "2025-02-21 13:07",
+      "DataFimReal": "2025-02-21 17:27",
+      "QtdeProduzida": 181,
+      "QtdeBoa": 176,
+      "Paradas_h": 0.7
+    },
+    {
+      "OP_ID": "OP2025-184",
+      "Maquina": "Solado_01",
+      "DataInicioReal": "2025-02-21 07:09",
+      "DataFimReal": "2025-02-21 09:51",
+      "QtdeProduzida": 191,
+      "QtdeBoa": 191,
+      "Paradas_h": 1.53
+    },
+    {
+      "OP_ID": "OP2025-185",
+      "Maquina": "Solado_01",
+      "DataInicioReal": "2025-02-21 13:22",
+      "DataFimReal": "2025-02-21 16:25",
+      "QtdeProduzida": 240,
+      "QtdeBoa": 237,
+      "Paradas_h": 0.04
+    },
+    {
+      "OP_ID": "OP2025-186",
+      "Maquina": "Acabamento_01",
+      "DataInicioReal": "2025-02-21 08:41",
+      "DataFimReal": "2025-02-21 12:44",
+      "QtdeProduzida": 236,
+      "QtdeBoa": 235,
+      "Paradas_h": 0.55
+    },
+    {
+      "OP_ID": "OP2025-187",
+      "Maquina": "Solado_01",
+      "DataInicioReal": "2025-02-21 14:39",
+      "DataFimReal": "2025-02-21 18:51",
+      "QtdeProduzida": 213,
+      "QtdeBoa": 212,
+      "Paradas_h": 0.95
+    },
+    {
+      "OP_ID": "OP2025-188",
+      "Maquina": "Solado_01",
+      "DataInicioReal": "2025-02-21 07:37",
+      "DataFimReal": "2025-02-21 14:07",
+      "QtdeProduzida": 199,
+      "QtdeBoa": 194,
+      "Paradas_h": 1.61
+    },
+    {
+      "OP_ID": "OP2025-189",
+      "Maquina": "Solado_01",
+      "DataInicioReal": "2025-02-21 14:15",
+      "DataFimReal": "2025-02-21 18:43",
+      "QtdeProduzida": 242,
+      "QtdeBoa": 242,
+      "Paradas_h": 1.26
+    },
+    {
+      "OP_ID": "OP2025-190",
+      "Maquina": "Colagem_01",
+      "DataInicioReal": "2025-02-22 09:10",
+      "DataFimReal": "2025-02-22 14:19",
+      "QtdeProduzida": 256,
+      "QtdeBoa": 254,
+      "Paradas_h": 1.94
+    },
+    {
+      "OP_ID": "OP2025-191",
+      "Maquina": "MontagemCabedal_01",
+      "DataInicioReal": "2025-02-22 13:44",
+      "DataFimReal": "2025-02-22 17:50",
+      "QtdeProduzida": 197,
+      "QtdeBoa": 196,
+      "Paradas_h": 1.76
+    },
+    {
+      "OP_ID": "OP2025-192",
+      "Maquina": "Colagem_01",
+      "DataInicioReal": "2025-02-22 08:12",
+      "DataFimReal": "2025-02-22 12:38",
+      "QtdeProduzida": 171,
+      "QtdeBoa": 166,
+      "Paradas_h": 1.8
+    },
+    {
+      "OP_ID": "OP2025-193",
+      "Maquina": "Acabamento_01",
+      "DataInicioReal": "2025-02-22 13:33",
+      "DataFimReal": "2025-02-22 17:46",
+      "QtdeProduzida": 150,
+      "QtdeBoa": 149,
+      "Paradas_h": 1.25
+    },
+    {
+      "OP_ID": "OP2025-194",
+      "Maquina": "Colagem_01",
+      "DataInicioReal": "2025-02-22 09:02",
+      "DataFimReal": "2025-02-22 14:59",
+      "QtdeProduzida": 225,
+      "QtdeBoa": 221,
+      "Paradas_h": 0.04
+    },
+    {
+      "OP_ID": "OP2025-195",
+      "Maquina": "Acabamento_01",
+      "DataInicioReal": "2025-02-22 14:53",
+      "DataFimReal": "2025-02-22 18:15",
+      "QtdeProduzida": 246,
+      "QtdeBoa": 244,
+      "Paradas_h": 0.02
+    },
+    {
+      "OP_ID": "OP2025-196",
+      "Maquina": "Acabamento_01",
+      "DataInicioReal": "2025-02-22 08:15",
+      "DataFimReal": "2025-02-22 13:00",
+      "QtdeProduzida": 191,
+      "QtdeBoa": 186,
+      "Paradas_h": 1.07
+    },
+    {
+      "OP_ID": "OP2025-197",
+      "Maquina": "Colagem_01",
+      "DataInicioReal": "2025-02-22 14:53",
+      "DataFimReal": "2025-02-22 18:54",
+      "QtdeProduzida": 223,
+      "QtdeBoa": 222,
+      "Paradas_h": 1.09
+    },
+    {
+      "OP_ID": "OP2025-198",
+      "Maquina": "Solado_01",
+      "DataInicioReal": "2025-02-22 09:12",
+      "DataFimReal": "2025-02-22 14:02",
+      "QtdeProduzida": 203,
+      "QtdeBoa": 199,
+      "Paradas_h": 1.92
+    },
+    {
+      "OP_ID": "OP2025-199",
+      "Maquina": "Acabamento_01",
+      "DataInicioReal": "2025-02-22 14:22",
+      "DataFimReal": "2025-02-22 20:46",
+      "QtdeProduzida": 173,
+      "QtdeBoa": 172,
+      "Paradas_h": 1.93
+    },
+    {
+      "OP_ID": "OP2025-200",
+      "Maquina": "Acabamento_01",
+      "DataInicioReal": "2025-02-23 08:53",
+      "DataFimReal": "2025-02-23 14:04",
+      "QtdeProduzida": 200,
+      "QtdeBoa": 196,
+      "Paradas_h": 0.6
+    }
+  ]
+}
